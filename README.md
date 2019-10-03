@@ -1,0 +1,2 @@
+# PACTOLS
+<p>PACTOLS de <a href="http://www.frantiq.fr" target="_blank">FRANTIQ</a> est mis à disposition selon les termes de la licence <a href="https://spdx.org/licenses/ODbL-1.0.html#" target="_blank">ODC Open Database License (ODbL) v1.0</a></p><p>Fondé(e) sur une œuvre à <a href="http://pactols.frantiq.fr" target="_blank">http://pactols.frantiq.fr</a>.</p><p>Les autorisations au-delà du champ de cette licence peuvent être obtenues à <a href="http://www.frantiq.fr" target="_blank">http://www.frantiq.fr</a>.</p>
