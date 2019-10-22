@@ -45143,10 +45143,6 @@
       {
         "value" : "https://ark.frantiq.fr/ark:/26678/pcrtQvT7LqGMAp",
         "type" : "uri"
-      },
-      {
-        "value" : "https://pactols.frantiq.fr/opentheso/époque p",
-        "type" : "uri"
       }
     ],
     "http://www.w3.org/2004/02/skos/core#inScheme" : [

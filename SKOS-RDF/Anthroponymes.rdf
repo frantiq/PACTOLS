@@ -21109,7 +21109,6 @@
 	<skos:prefLabel xml:lang="ar">هاتوشيلي 1</skos:prefLabel>
 	<skos:altLabel xml:lang="fr">Hattusili I</skos:altLabel>
 	<skos:broader rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtsM9MuHKJZ1"/>
-	<skos:broader rdf:resource="https://pactols.frantiq.fr/opentheso/gouvernants hittites"/>
 	<skos:inScheme rdf:resource="https://pactols.frantiq.fr/opentheso/TH_1"/>
 	<opentheso:memberOf rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtrG9ejXOVNA"/>
 	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2007-02-08</dcterms:created>

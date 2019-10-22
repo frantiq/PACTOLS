@@ -4982,7 +4982,6 @@
 	<skos:narrower rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtSPaI9sj2Pf"/>
 	<skos:narrower rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrte2FsWNTfEF"/>
 	<skos:broader rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtQvT7LqGMAp"/>
-	<skos:broader rdf:resource="https://pactols.frantiq.fr/opentheso/époque p"/>
 	<skos:inScheme rdf:resource="https://pactols.frantiq.fr/opentheso/TH_1"/>
 	<opentheso:memberOf rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtIriK2LwtHZ"/>
 	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2007-02-08</dcterms:created>
