@@ -10,13 +10,14 @@ Son organisation en dossiers thématiques lui a donné son nom : Peuples et cult
 Elaboré à partir de la littérature scientifique recensée au <a href="http://catalogue.frantiq.fr" target="_blank">Catalogue collectif indexé</a> des bibliothèques du réseau Frantiq et des lexiques spécialisés, il est mis à jour avec l'aide des experts des domaines scientifiques et suit l'évolution de la discipline.
 
 Il constitue un réservoir de métadonnées spécialisées appliquées aujourd’hui à toutes les pratiques de la discipline : enregistrement de terrain, bases de données de travail et bibliographiques, édition scientifique, valorisation du patrimoine archéologique, etc.
-# PACTOLS via le Webservices REST  
+# PACTOLS via le Webservices REST de <a href="https://github.com/miledrousset/opentheso" target="_blank">Opentheso</a> 
 
 Recherche par Identifiant (Ark) avec précision du format :
 https://pactols.frantiq.fr/opentheso/api/26678/pcrtkOgxvd4Ijy.rdf
 https://pactols.frantiq.fr/opentheso/api/26678/pcrtkOgxvd4Ijy.json
 https://pactols.frantiq.fr/opentheso/api/26678/pcrtkOgxvd4Ijy.jsonld
 https://pactols.frantiq.fr/opentheso/api/26678/pcrtkOgxvd4Ijy.ttl
+
 
 Recherche par l’identifiant du concept avec précision du format :
 https://pactols.frantiq.fr/opentheso/api/TH_1.13175.rdf
@@ -25,6 +26,7 @@ id du thesaurus = TH_1
 id du concept =  13175
 format = rdf
 formats valides : (.rdf), (.json), (.jsonld), (.ttl).
+
 
 Recherche avec Curl en choisissant le header :
 curl -L --header "Accept: application/rdf+xml" https://pactols.frantiq.fr/opentheso/api/26678/pcrtkOgxvd4Ijy
