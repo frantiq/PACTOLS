@@ -13,9 +13,13 @@ Il constitue un réservoir de métadonnées spécialisées appliquées aujourd�
 # PACTOLS via le Webservices REST de <a href="https://github.com/miledrousset/opentheso" target="_blank">Opentheso</a> 
 
 Recherche par Identifiant (Ark) avec précision du format :
+
 https://pactols.frantiq.fr/opentheso/api/26678/pcrtkOgxvd4Ijy.rdf
+
 https://pactols.frantiq.fr/opentheso/api/26678/pcrtkOgxvd4Ijy.json
+
 https://pactols.frantiq.fr/opentheso/api/26678/pcrtkOgxvd4Ijy.jsonld
+
 https://pactols.frantiq.fr/opentheso/api/26678/pcrtkOgxvd4Ijy.ttl
 
 
