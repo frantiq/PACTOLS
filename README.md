@@ -1,7 +1,8 @@
-# Pactols
-<p>Le thésaurus Pactols est produit par la Fédération et Ressources sur l'Antiquité (<a href="http://www.frantiq.fr" target="_blank">Frantiq</a>, Groupement de services du CNRS). Il est mis à disposition selon les termes de la licence <a [href="https://fr.wikipedia.org/wiki/Open_Database_License" target="_blank">ODC Open Database License (ODbL)</a></p><p>Il est librement ici: <a href="http://pactols.frantiq.fr" target="_blank">http://pactols.frantiq.fr</a>.</p><p>Les autorisations au-delà du champ de cette licence peuvent être obtenues à <a href="http://www.frantiq.fr" target="_blank">http://www.frantiq.fr</a>.</p>
-
-<b>Un thésaurus pour l'archéologie</b>
+# Pactols, un thésaurus pour l'archéologie
+<p>Le thésaurus Pactols est produit par la Fédération et Ressources sur l'Antiquité (<a href="http://www.frantiq.fr" target="_blank">Frantiq</a>, Groupement de services du CNRS). Il est mis à disposition selon les termes de la licence <a [href="https://fr.wikipedia.org/wiki/Open_Database_License" target="_blank">ODC Open Database License (ODbL)</a></p>
+Il est librement consultable ici: <a href="http://pactols.frantiq.fr" target="_blank">http://pactols.frantiq.fr</a>.
+Il est aussi accessible via le Webservices REST de <a href="https://github.com/miledrousset/opentheso" target="_blank">Opentheso</a> 
+<p>Les autorisations au-delà du champ de cette licence peuvent être obtenues à <a href="http://www.frantiq.fr" target="_blank">http://www.frantiq.fr</a>.</p>
 
 Pactols est l’unique vocabulaire français pour l’archéologie qui soit libre, multilingue (fr, en, de, it, es, nl, ar), normalisé (SKOS) et interopérable (ISO 25964).
 
@@ -20,7 +21,3 @@ On peut notamment citer :
 scientifiques externes dans un souci de sémantisation des données
 - Une organisation en amont permettant une meilleure réactualisation du thésaurus au fil de l’eau : gestion des termes candidats, toilettage régulier et systématique des concepts
 - Le thesaurus « Lieux » a quant à lui été mis à part en raison de son volume. Il bénéficiera d’un alignement de l’ensemble des concepts le constituant avec la base GeoNames et en parallèle avec Wikidata.
-
-# PACTOLS via le Webservices REST de <a href="https://github.com/miledrousset/opentheso" target="_blank">Opentheso</a> 
-
-
