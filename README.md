@@ -9,15 +9,14 @@ Il tient son nom des branches hiérarchiques de sa version initiale : Peuples et
 -	les Sujets avec 12.00 concepts. Les branches Sujets s’inspirent de la structure du BackBone Thesaurus développé par DARIAH Thesaurus Maintenance Working Group.
 
 ## Accès et réutilisation
-Pactols est librement consultable ici: <a href="http://pactols.frantiq.fr" target="_blank">http://pactols.frantiq.fr</a>.
-Pactols est un thésaurus sous licence libre OdBL dont les données sont réutilisables. 
-- Il est aussi accessible via le Webservices REST de <a href="https://github.com/miledrousset/opentheso" target="_blank">Opentheso</a>.
-- Depuis l’interface Opentheso, chaque mot-clé peut être exporté dans les formats RDF/XML, Json, JsonLD et Turtle.
+Pactols est librement consultable ici: <a href="http://pactols.frantiq.fr" target="_blank">http://pactols.frantiq.fr</a> et ses données sont réutilisables (licence libre OdBL). 
+- Depuis l’interface Opentheso et sans connexion particulière, chaque mot-clé peut être exporté dans les formats RDF/XML, Json, JsonLD et Turtle.
+- Le thésaurus est aussi accessible via le Webservices REST de <a href="https://github.com/miledrousset/opentheso" target="_blank">Opentheso</a>.
 - L’export de branches se fait à la demande, mais plusieurs exports sont à disposition dans ce dépôt.
 
 ## Organisation du dépôt
-Les fichiers d’export correspondent à des extractions des thésaurus en plusieurs formats. Ils sont mis à jour tous les 6 mois ou 1 an dans le dossier pactols_latest_version. 
+- Les fichiers d’export correspondent à des extractions des thésaurus en plusieurs formats. Ils sont mis à jour tous les 6 mois ou 1 an dans le dossier pactols_latest_version. 
 Ils suivent l’organisation des collections thématiques de chacun des ensembles. Les versions anciennes sont archivées dans pactols_archives.
-Les listes recensent les nouveaux termes ajoutés (dossier pactols_candidats) et les concepts dépréciés (dossier pactols_deprecated). Ces derniers sont des concepts jugés obsolètes ou faisant doublon que l’on a retiré de la hiérarchie et qui ne sont pas/plus utilisables pour l’indexation. Ces listes sont mises à jour tous les 6 mois, en janvier et en juillet.
-La documentation utilisateurs est en cours de rédaction et sera déposée prochainement.
+- Les listes recensent les nouveaux termes ajoutés (dossier pactols_candidats) et les concepts dépréciés (dossier pactols_deprecated). Ces derniers sont des concepts jugés obsolètes ou faisant doublon que l’on a retiré de la hiérarchie et qui ne sont pas/plus utilisables pour l’indexation. Ces listes sont mises à jour tous les 6 mois, en janvier et en juillet.
+- La documentation utilisateurs est en cours de rédaction et sera déposée prochainement.
 
