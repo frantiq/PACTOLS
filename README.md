@@ -19,4 +19,3 @@ Pactols est librement consultable ici: <a href="http://pactols.frantiq.fr" targe
 Ils suivent l’organisation des collections thématiques de chacun des ensembles. Les versions anciennes sont archivées dans pactols_archives.
 - Les listes recensent les nouveaux termes ajoutés (dossier pactols_candidats) et les concepts dépréciés (dossier pactols_deprecated). Ces derniers sont des concepts jugés obsolètes ou faisant doublon que l’on a retiré de la hiérarchie et qui ne sont pas/plus utilisables pour l’indexation. Ces listes sont mises à jour tous les 6 mois, en janvier et en juillet.
 - La documentation utilisateurs est en cours de rédaction et sera déposée prochainement.
-
