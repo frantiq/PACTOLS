@@ -1,0 +1,1705 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:dcterms="http://purl.org/dc/terms/"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:iso-thes="http://purl.org/iso25964/skos-thes#"
+	xmlns:opentheso="http://purl.org/umu/uneskos#"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:wdt="http://www.opengis.net/ont/geosparql#"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+
+<rdf:Description rdf:about="https://ark.frantiq.fr/ark:/26678/TH_1">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
+	<skos:prefLabel xml:lang="ar">pactols_2</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">Pactols_Sujets</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Pactols_Themen</skos:prefLabel>
+	<skos:prefLabel xml:lang="es">Pactols_Temas</skos:prefLabel>
+	<skos:prefLabel xml:lang="nl">Pactols_Topics</skos:prefLabel>
+	<skos:prefLabel xml:lang="ru">Pactols_Tema</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Pactols_Temi</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Pactols_Subjects</skos:prefLabel>
+	<skos:prefLabel xml:lang="el">Pactols_Topics</skos:prefLabel>
+	<skos:prefLabel xml:lang="he">Pactols_Subjects</skos:prefLabel>
+	<skos:hasTopConcept rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtgSbjUSVUr8"/>
+	<skos:hasTopConcept rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrt8n40q9ng1p"/>
+	<skos:hasTopConcept rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtIMsuG0RWTs"/>
+	<skos:hasTopConcept rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtqOnvbkSUvu"/>
+	<skos:hasTopConcept rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtnQFBp7vRwb"/>
+	<skos:hasTopConcept rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtb8pL8xI1LB"/>
+	<skos:hasTopConcept rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtGrTrckrNHZ"/>
+	<skos:hasTopConcept rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrt1GPZLeLDoN"/>
+	<skos:hasTopConcept rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtx7DI4bZtuR"/>
+	<skos:hasTopConcept rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtYXEBytBn39"/>
+	<skos:hasTopConcept rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrt73REVYeFXQ"/>
+	<skos:hasTopConcept rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtmvnhq9hpgb"/>
+	<skos:hasTopConcept rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtu1uuSJeF5V"/>
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2014-10-06</dcterms:created>
+	<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2014-10-06</dcterms:modified>
+	<dcterms:creator>blandine.nouvel</dcterms:creator>
+	<dcterms:contributor>blandine.nouvel</dcterms:contributor>
+	<dcterms:title>Pactols_Subjects</dcterms:title>
+	<dcterms:language>he</dcterms:language>
+	<dcterms:contributor xml:lang="en">Pactols Working Group</dcterms:contributor>
+	<dcterms:publisher xml:lang="fr">Centre national de la recherche scientifique (CNRS)</dcterms:publisher>
+	<dcterms:contributor xml:lang="fr">Groupe de travail Pactols</dcterms:contributor>
+	<dcterms:format>SKOS</dcterms:format>
+	<dcterms:language>fr</dcterms:language>
+	<dcterms:language>en</dcterms:language>
+	<dcterms:language>it</dcterms:language>
+	<dcterms:language>es</dcterms:language>
+	<dcterms:language>de</dcterms:language>
+	<dcterms:language>nl</dcterms:language>
+	<dcterms:language>ar</dcterms:language>
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1987</dcterms:created>
+	<dcterms:rightsHolder>CNRS-Frantiq</dcterms:rightsHolder>
+	<dcterms:license>OdBL</dcterms:license>
+	<dcterms:title xml:lang="fr">Pactols Sujets</dcterms:title>
+	<dcterms:creator xml:lang="fr">Pactols Sujets</dcterms:creator>
+	<dcterms:type xml:lang="en">thesaurus</dcterms:type>
+	<dcterms:creator xml:lang="fr">Fédération et Ressources sur l'Antiquité (Frantiq)</dcterms:creator>
+	<dcterms:description xml:lang="fr">Thésaurus sur l'archéologie, depuis la Préhistoire jusqu'à la période contemporaine, et sur les sciences de l'Antiquité</dcterms:description>
+	<dcterms:description xml:lang="en">Thesaurus about archaeology, from Prehistory to the contemporary period, and about classical studies</dcterms:description>
+	<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-09-21</dcterms:modified>
+	<dcterms:contributor>Blandine Nouvel</dcterms:contributor>
+	<dcterms:contributor>Evelyne Sinigaglia</dcterms:contributor>
+	<dcterms:contributor>Justine Vincent</dcterms:contributor>
+	<dcterms:contributor>Sophie Kielwasser</dcterms:contributor>
+	<dcterms:contributor>Rémi Ancel</dcterms:contributor>
+	<dcterms:contributor>Emmanuelle Bryas</dcterms:contributor>
+	<dcterms:contributor>Christelle Molinié</dcterms:contributor>
+	<dcterms:title>Patricia Moitrel</dcterms:title>
+	<dcterms:creator>Patricia Moitrel</dcterms:creator>
+	<dcterms:contributor>Guillaume Reich</dcterms:contributor>
+	<dcterms:contributor>Juliette Testard</dcterms:contributor>
+	<dcterms:identifier>https://pactols.frantiq.fr/opentheso/?idt=TH_1</dcterms:identifier>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://ark.frantiq.fr/ark:/26678/pcrtrxnswx9qw6">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Collection"/>
+	<skos:prefLabel xml:lang="en">Facet : Geopolitical units</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">P2-UNITÉS GÉOPOLITIQUES</skos:prefLabel>
+	<iso-thes:microThesaurusOf rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtrxnswx9qw6"/>
+	<skos:member rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtaRcMOBwKh6"/>
+	<skos:member rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtUvvjpjtj9o"/>
+	<skos:member rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtpHO0HJvq4L"/>
+	<skos:member rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtPovaRstBwl"/>
+	<skos:member rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtk6D8S79lNB"/>
+	<skos:member rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtkDBYonQEuW"/>
+	<skos:member rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtUk9cBWYKa9"/>
+	<skos:member rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtvzl3HUp31m"/>
+	<skos:member rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtMn0hDa1ISK"/>
+	<skos:member rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtqVg5EE8ryz"/>
+	<skos:member rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtth6SX6dqLT"/>
+	<skos:member rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtzlGXXDRsSE"/>
+	<skos:member rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtGRDLz9rL2B"/>
+	<skos:member rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtoiSmw7kmXQ"/>
+	<skos:member rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtWMS5ewTzUz"/>
+	<skos:member rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrt2oMB8vv3no"/>
+	<skos:member rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtkecpbIZuY1"/>
+	<skos:member rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtrL4SWSFZ0n"/>
+	<skos:member rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtfLiLVtbp37"/>
+	<skos:member rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrthI4tPzvLVQ"/>
+	<skos:member rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrt1gL0hsgQTY"/>
+	<skos:member rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrt83M3AddL5O"/>
+	<skos:member rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtSkt1eRlMG2"/>
+	<skos:member rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtT4PswKkyZW"/>
+	<skos:member rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtVHSiUuDQVO"/>
+	<skos:member rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtysxPseQ69v"/>
+	<skos:member rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrt0pUgEWWGGP"/>
+	<skos:member rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtzUrcJxD2ow"/>
+	<skos:member rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtubR71b0HKL"/>
+	<skos:member rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtI6kvbZ3mIr"/>
+	<skos:member rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtY2vzuB7lBm"/>
+	<skos:member rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtS1LzpAWeT2"/>
+	<skos:member rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtzTPFYJSae5"/>
+	<skos:member rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrt43M8H7iWXV"/>
+	<skos:member rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtqZmoA2lkNx"/>
+	<skos:member rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrt8L7jhVhIn5"/>
+	<skos:member rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtIy0GVAU6zI"/>
+	<skos:member rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtzuzR7iTq5A"/>
+	<skos:member rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtqh0Gw1ujrr"/>
+	<skos:member rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtTEsi8UMa3R"/>
+	<skos:member rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtykoEqGY5VZ"/>
+	<skos:member rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtIMLF0zrBUu"/>
+	<skos:member rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtdfzPa8ViuL"/>
+	<skos:member rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtegLJO1lMLf"/>
+	<skos:member rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtQNRRYhNKP5"/>
+	<skos:member rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtMxv4H96TuW"/>
+	<skos:member rdf:resource="https://ark.frantiq.fr/ark:/26678/crtwzOa2orNiH"/>
+	<skos:member rdf:resource="https://ark.frantiq.fr/ark:/26678/crtT6U9i2DKKe"/>
+	<skos:member rdf:resource="https://ark.frantiq.fr/ark:/26678/crtnXTBqmGb2A"/>
+	<skos:member rdf:resource="https://ark.frantiq.fr/ark:/26678/crtrnI4OBYMLK"/>
+	<skos:member rdf:resource="https://ark.frantiq.fr/ark:/26678/crt4O4PAy5w3O"/>
+	<skos:member rdf:resource="https://ark.frantiq.fr/ark:/26678/crtI9RyKgGH53"/>
+	<skos:member rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtD7US79TXje"/>
+	<skos:member rdf:resource="https://ark.frantiq.fr/ark:/26678/crt62kRiS7fUE"/>
+	<skos:member rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtQe5VAFa1Is"/>
+	<skos:member rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtGrTrckrNHZ"/>
+	<skos:member rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrt5g258z4mhg"/>
+	<skos:member rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtTiTtJfS2XB"/>
+	<skos:member rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtgpav0y2xnw"/>
+	<skos:member rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtTzsUdF1uUT"/>
+	<skos:member rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtAZMNub2Yp3"/>
+	<skos:member rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrttw1Rh499Mh"/>
+	<skos:member rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrt0qW4s9SGWg"/>
+	<skos:member rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtiL6Vr7bLzg"/>
+	<skos:member rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtB0uW42NTai"/>
+	<skos:notation>012</skos:notation>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://pactols.frantiq.fr/opentheso/?idf=F221&amp;idt=TH_1">
+	<rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#ThesaurusArray"/>
+	<iso-thes:superOrdinate rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtGrTrckrNHZ"/>
+	<skos:member rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtS1LzpAWeT2"/>
+	<skos:member rdf:resource="https://ark.frantiq.fr/ark:/26678/crtI9RyKgGH53"/>
+	<skos:member rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtTiTtJfS2XB"/>
+	<skos:prefLabel xml:lang="fr">divisions ecclésiastiques</skos:prefLabel>
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-02-11 16:11:47.045237+01</dcterms:created>
+	<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-02-11 16:11:47.045237+01</dcterms:modified>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://pactols.frantiq.fr/opentheso/?idf=F601&amp;idt=TH_1">
+	<rdf:type rdf:resource="http://purl.org/iso25964/skos-thes#ThesaurusArray"/>
+	<iso-thes:superOrdinate rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtGrTrckrNHZ"/>
+	<skos:member rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtaRcMOBwKh6"/>
+	<skos:member rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtpHO0HJvq4L"/>
+	<skos:member rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtqVg5EE8ryz"/>
+	<skos:member rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrt1gL0hsgQTY"/>
+	<skos:member rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtqh0Gw1ujrr"/>
+	<skos:member rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtdfzPa8ViuL"/>
+	<skos:member rdf:resource="https://ark.frantiq.fr/ark:/26678/crtnXTBqmGb2A"/>
+	<skos:member rdf:resource="https://ark.frantiq.fr/ark:/26678/crtrnI4OBYMLK"/>
+	<skos:member rdf:resource="https://ark.frantiq.fr/ark:/26678/crt62kRiS7fUE"/>
+	<skos:member rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtgpav0y2xnw"/>
+	<skos:member rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtTzsUdF1uUT"/>
+	<skos:prefLabel xml:lang="fr">unités territoriales politiques</skos:prefLabel>
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-09-13 14:25:53.57784+02</dcterms:created>
+	<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-09-13 14:25:53.57784+02</dcterms:modified>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://pactols.frantiq.fr/opentheso/?idf=F221&amp;idt=TH_1">
+	<skos:prefLabel xml:lang="en">ecclesiastical divisions</skos:prefLabel>
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-09-19 20:30:24.452599+02</dcterms:created>
+	<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-09-19 20:30:24.452599+02</dcterms:modified>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://pactols.frantiq.fr/opentheso/?idf=F601&amp;idt=TH_1">
+	<skos:prefLabel xml:lang="en">political territorial units</skos:prefLabel>
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-09-19 20:30:49.712881+02</dcterms:created>
+	<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-09-19 20:30:49.712881+02</dcterms:modified>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://ark.frantiq.fr/ark:/26678/pcrtaRcMOBwKh6">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:prefLabel xml:lang="es">Estado (nación)</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">État</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Staat</skos:prefLabel>
+	<skos:prefLabel xml:lang="nl">staat (natie)</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">State (nation)</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">Stato (nazione)</skos:prefLabel>
+	<skos:prefLabel xml:lang="ar">دولة</skos:prefLabel>
+	<skos:altLabel xml:lang="es">Estado nación</skos:altLabel>
+	<skos:altLabel xml:lang="fr">État-nation</skos:altLabel>
+	<skos:altLabel xml:lang="en">Nation</skos:altLabel>
+	<skos:altLabel xml:lang="de">Nationalstaat</skos:altLabel>
+	<skos:altLabel xml:lang="en">Nation state</skos:altLabel>
+	<skos:altLabel xml:lang="en">polity</skos:altLabel>
+	<skos:altLabel xml:lang="it">Stato nazionale</skos:altLabel>
+	<skos:related rdf:resource="https://ark.frantiq.fr/ark:/26678/crtxthrhRLaAm"/>
+	<skos:related rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtOS1KTMvTxh"/>
+	<skos:broader rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtGrTrckrNHZ"/>
+	<skos:inScheme rdf:resource="https://ark.frantiq.fr/ark:/26678/TH_1"/>
+	<opentheso:memberOf rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtrxnswx9qw6"/>
+	<opentheso:memberOf rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtnbDLi2FkAj"/>
+	<skos:exactMatch rdf:resource="https://catalogue.bnf.fr/ark:/12148/cb11937050q"/>
+	<skos:exactMatch rdf:resource="https://www.wikidata.org/wiki/Q7275"/>
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2007-02-08</dcterms:created>
+	<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-08-02</dcterms:modified>
+	<dcterms:identifier>13028</dcterms:identifier>
+	<dcterms:contributor>blandine.nouvel</dcterms:contributor>
+	<skos:definition xml:lang="fr">Autorité politique souveraine, civile, militaire ou éventuellement religieuse, considérée comme une personne juridique et morale, à laquelle est soumise un groupement humain, vivant sur un territoire donné (CNRTL)</skos:definition>
+	<dcterms:isReplacedBy rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtaRcMOBwKh6"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://ark.frantiq.fr/ark:/26678/pcrtUvvjpjtj9o">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:prefLabel xml:lang="en">ager publicus</skos:prefLabel>
+	<skos:prefLabel xml:lang="es">ager publicus</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">ager publicus</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">ager publicus</skos:prefLabel>
+	<skos:prefLabel xml:lang="nl">ager publicus</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Ager Publicus</skos:prefLabel>
+	<skos:prefLabel xml:lang="ar">أملاك عامة</skos:prefLabel>
+	<skos:related rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrt1GKNPQaWn8"/>
+	<skos:broader rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtzTPFYJSae5"/>
+	<skos:inScheme rdf:resource="https://ark.frantiq.fr/ark:/26678/TH_1"/>
+	<opentheso:memberOf rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtrxnswx9qw6"/>
+	<opentheso:memberOf rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtnbDLi2FkAj"/>
+	<skos:exactMatch rdf:resource="https://www.wikidata.org/wiki/Q392990"/>
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2007-02-08</dcterms:created>
+	<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-08-02</dcterms:modified>
+	<dcterms:identifier>13124</dcterms:identifier>
+	<dcterms:contributor>blandine.nouvel</dcterms:contributor>
+	<skos:definition xml:lang="fr">Expression latine désignant dans la Rome ancienne les territoires faisant partie du domaine public (Lar.)</skos:definition>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://ark.frantiq.fr/ark:/26678/pcrtpHO0HJvq4L">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:prefLabel xml:lang="es">centuria</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">centuria</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">centuria (administration)</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">centurie</skos:prefLabel>
+	<skos:prefLabel xml:lang="nl">centurie</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Zenturie</skos:prefLabel>
+	<skos:prefLabel xml:lang="ar">وحدة إدارية مئوية</skos:prefLabel>
+	<skos:related rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtJtBUSJRN9p"/>
+	<skos:related rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtilbSQF6Sce"/>
+	<skos:related rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtlp1OFwcxfE"/>
+	<skos:broader rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtGrTrckrNHZ"/>
+	<skos:inScheme rdf:resource="https://ark.frantiq.fr/ark:/26678/TH_1"/>
+	<opentheso:memberOf rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtrxnswx9qw6"/>
+	<opentheso:memberOf rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtnbDLi2FkAj"/>
+	<skos:exactMatch rdf:resource="https://www.wikidata.org/wiki/Q191306"/>
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2007-02-08</dcterms:created>
+	<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-08-02</dcterms:modified>
+	<dcterms:identifier>13804</dcterms:identifier>
+	<dcterms:contributor>blandine.nouvel</dcterms:contributor>
+	<skos:definition xml:lang="fr">Unité politique, administrative formée par cent citoyens (Lar.)</skos:definition>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://ark.frantiq.fr/ark:/26678/pcrtPovaRstBwl">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:prefLabel xml:lang="fr">cité fédérée</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">città federata</skos:prefLabel>
+	<skos:prefLabel xml:lang="es">ciudad federada</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Civitas foederata</skos:prefLabel>
+	<skos:prefLabel xml:lang="nl">federale stad</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">foederatus</skos:prefLabel>
+	<skos:prefLabel xml:lang="ar">مدينة اتحادية</skos:prefLabel>
+	<skos:altLabel xml:lang="fr">cité alliée</skos:altLabel>
+	<skos:altLabel xml:lang="it">città alleata</skos:altLabel>
+	<skos:altLabel xml:lang="es">ciudad aliada</skos:altLabel>
+	<skos:altLabel xml:lang="en">federated city</skos:altLabel>
+	<skos:altLabel xml:lang="de">verbündete Gemeinde</skos:altLabel>
+	<skos:related rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtGnNLceXoDZ"/>
+	<skos:broader rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtvzl3HUp31m"/>
+	<skos:inScheme rdf:resource="https://ark.frantiq.fr/ark:/26678/TH_1"/>
+	<opentheso:memberOf rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtrxnswx9qw6"/>
+	<opentheso:memberOf rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtnbDLi2FkAj"/>
+	<skos:exactMatch rdf:resource="https://www.wikidata.org/wiki/Q2974815"/>
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2007-02-08</dcterms:created>
+	<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-08-02</dcterms:modified>
+	<dcterms:identifier>13898</dcterms:identifier>
+	<dcterms:contributor>blandine.nouvel</dcterms:contributor>
+	<skos:definition xml:lang="fr">Cité libre dont le statut est garanti par un traité avec Rome (MC et PL)</skos:definition>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://ark.frantiq.fr/ark:/26678/pcrtk6D8S79lNB">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:prefLabel xml:lang="fr">cité grecque</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">città greca</skos:prefLabel>
+	<skos:prefLabel xml:lang="es">ciudad griega</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">griechische Stadt</skos:prefLabel>
+	<skos:prefLabel xml:lang="nl">Griekse stad</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">polis</skos:prefLabel>
+	<skos:prefLabel xml:lang="ar">مدينة إغريقية</skos:prefLabel>
+	<skos:altLabel xml:lang="fr">cité-État</skos:altLabel>
+	<skos:altLabel xml:lang="en">Greek city-state</skos:altLabel>
+	<skos:altLabel xml:lang="fr">polis</skos:altLabel>
+	<skos:altLabel xml:lang="de">Polis</skos:altLabel>
+	<skos:related rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtth6SX6dqLT"/>
+	<skos:related rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtT6e5DRQpRg"/>
+	<skos:broader rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtvzl3HUp31m"/>
+	<skos:inScheme rdf:resource="https://ark.frantiq.fr/ark:/26678/TH_1"/>
+	<opentheso:memberOf rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtrxnswx9qw6"/>
+	<opentheso:memberOf rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtnbDLi2FkAj"/>
+	<skos:exactMatch rdf:resource="https://www.idref.fr/07102784X"/>
+	<skos:exactMatch rdf:resource="https://www.wikidata.org/wiki/Q148837"/>
+	<skos:exactMatch rdf:resource="http://vocab.getty.edu/aat/300008397"/>
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2007-02-08</dcterms:created>
+	<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-08-02</dcterms:modified>
+	<dcterms:identifier>13899</dcterms:identifier>
+	<dcterms:contributor>blandine.nouvel</dcterms:contributor>
+	<skos:definition xml:lang="fr">&lt;p&gt;A partir du IXe s. av. J.-C., s'organisent en Grèce de petits États indépendants, composés d'une ville, en principe fortifiée, vivant des produits d'un territoire alentours. La polis ou ville haute (akropolis) est le lieu où les citoyens prennent les décisions. Elle se différencie de la ville du bas qui concentre la plèbe. A partir du VIe s. av.J.-C., les cités pouvaient s'allier au besoin contre un ennemi commun sans aboutir à la création d'un État grec unifié. (d'ap. Leclant, Dictionnaire de l'Antiquité, 2005)&lt;/p&gt;</skos:definition>
+	<dcterms:isReplacedBy rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtk6D8S79lNB"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://ark.frantiq.fr/ark:/26678/pcrtkDBYonQEuW">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:prefLabel xml:lang="fr">cité libre</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">città libera</skos:prefLabel>
+	<skos:prefLabel xml:lang="es">ciudad libre</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Civitas libera</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">free city</skos:prefLabel>
+	<skos:prefLabel xml:lang="nl">vrije stad</skos:prefLabel>
+	<skos:prefLabel xml:lang="ar">مدينة حرة</skos:prefLabel>
+	<skos:altLabel xml:lang="en">civitas libera</skos:altLabel>
+	<skos:altLabel xml:lang="de">freie Gemeinde</skos:altLabel>
+	<skos:related rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtGnNLceXoDZ"/>
+	<skos:broader rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtvzl3HUp31m"/>
+	<skos:inScheme rdf:resource="https://ark.frantiq.fr/ark:/26678/TH_1"/>
+	<opentheso:memberOf rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtrxnswx9qw6"/>
+	<opentheso:memberOf rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtnbDLi2FkAj"/>
+	<skos:exactMatch rdf:resource="https://www.wikidata.org/wiki/Q2974815"/>
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2007-02-08</dcterms:created>
+	<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-08-02</dcterms:modified>
+	<dcterms:identifier>13901</dcterms:identifier>
+	<dcterms:contributor>blandine.nouvel</dcterms:contributor>
+	<skos:definition xml:lang="fr">Cité exonérée du tribut sous la République romaine (MC et PL)</skos:definition>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://ark.frantiq.fr/ark:/26678/pcrtUk9cBWYKa9">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:prefLabel xml:lang="fr">cité stipendiaire</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">città stipendiaria</skos:prefLabel>
+	<skos:prefLabel xml:lang="es">ciudad estipendiaria</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Civitas stipendaria</skos:prefLabel>
+	<skos:prefLabel xml:lang="nl">schatplichtige stad</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">stipendiary city</skos:prefLabel>
+	<skos:prefLabel xml:lang="ar">مدينة مستاجرة</skos:prefLabel>
+	<skos:altLabel xml:lang="de">abgabenpflichtige Gemeinde</skos:altLabel>
+	<skos:altLabel xml:lang="fr">cité tributaire</skos:altLabel>
+	<skos:altLabel xml:lang="es">ciudad tributaria</skos:altLabel>
+	<skos:altLabel xml:lang="it">civitas stipendiaria</skos:altLabel>
+	<skos:related rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtGnNLceXoDZ"/>
+	<skos:broader rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtvzl3HUp31m"/>
+	<skos:inScheme rdf:resource="https://ark.frantiq.fr/ark:/26678/TH_1"/>
+	<opentheso:memberOf rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtrxnswx9qw6"/>
+	<opentheso:memberOf rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtnbDLi2FkAj"/>
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2007-02-08</dcterms:created>
+	<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-08-02</dcterms:modified>
+	<dcterms:identifier>13902</dcterms:identifier>
+	<dcterms:contributor>blandine.nouvel</dcterms:contributor>
+	<skos:definition xml:lang="fr">Cité soumise à un tribut, dans la dépendance juridique du gouverneur de la Province (MC et PL)</skos:definition>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://ark.frantiq.fr/ark:/26678/pcrtvzl3HUp31m">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:prefLabel xml:lang="es">centro urbano</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">centro urbano</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">cité-ville</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">city-town</skos:prefLabel>
+	<skos:prefLabel xml:lang="nl">stadstaat</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Stadtstaat</skos:prefLabel>
+	<skos:prefLabel xml:lang="ar">ضاحية ـ مدينة</skos:prefLabel>
+	<skos:altLabel xml:lang="fr">cité</skos:altLabel>
+	<skos:altLabel xml:lang="en">town-city</skos:altLabel>
+	<skos:altLabel xml:lang="fr">ville-cité</skos:altLabel>
+	<skos:related rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtN5zGcqx0YR"/>
+	<skos:narrower rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtPovaRstBwl"/>
+	<skos:narrower rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtk6D8S79lNB"/>
+	<skos:narrower rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtkDBYonQEuW"/>
+	<skos:narrower rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtUk9cBWYKa9"/>
+	<skos:narrower rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrt5g258z4mhg"/>
+	<skos:broader rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtGrTrckrNHZ"/>
+	<skos:inScheme rdf:resource="https://ark.frantiq.fr/ark:/26678/TH_1"/>
+	<opentheso:memberOf rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtrxnswx9qw6"/>
+	<opentheso:memberOf rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtnbDLi2FkAj"/>
+	<skos:exactMatch rdf:resource="https://www.wikidata.org/wiki/Q2774769"/>
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2007-02-08</dcterms:created>
+	<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-08-02</dcterms:modified>
+	<dcterms:identifier>13905</dcterms:identifier>
+	<dcterms:contributor>blandine.nouvel</dcterms:contributor>
+	<skos:definition xml:lang="fr">Agglomération formant un ensemble homogène, une unité historique, architecturale, etc. (Larousse)</skos:definition>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://ark.frantiq.fr/ark:/26678/pcrtMn0hDa1ISK">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:prefLabel xml:lang="fr">clérouquie</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">cleruchia</skos:prefLabel>
+	<skos:prefLabel xml:lang="nl">cleruchie</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">cleruchy</skos:prefLabel>
+	<skos:prefLabel xml:lang="es">cleruquía</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Kleruchie</skos:prefLabel>
+	<skos:prefLabel xml:lang="ar">مستعمرة أثينية</skos:prefLabel>
+	<skos:altLabel xml:lang="fr">clérouchie</skos:altLabel>
+	<skos:broader rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtqVg5EE8ryz"/>
+	<skos:inScheme rdf:resource="https://ark.frantiq.fr/ark:/26678/TH_1"/>
+	<opentheso:memberOf rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtrxnswx9qw6"/>
+	<opentheso:memberOf rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtnbDLi2FkAj"/>
+	<skos:exactMatch rdf:resource="https://www.wikidata.org/wiki/Q1774212"/>
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2007-02-08</dcterms:created>
+	<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-08-02</dcterms:modified>
+	<dcterms:identifier>13937</dcterms:identifier>
+	<dcterms:contributor>blandine.nouvel</dcterms:contributor>
+	<skos:definition xml:lang="fr">colonie dans un lot de terre assigné par le sort</skos:definition>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://ark.frantiq.fr/ark:/26678/pcrtqVg5EE8ryz">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:prefLabel xml:lang="es">colonia</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">colonia</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">colonie</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">colony</skos:prefLabel>
+	<skos:prefLabel xml:lang="nl">kolonie</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Kolonie</skos:prefLabel>
+	<skos:prefLabel xml:lang="ar">مستعمرة</skos:prefLabel>
+	<skos:related rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtxAZPiD2QHa"/>
+	<skos:narrower rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtMn0hDa1ISK"/>
+	<skos:narrower rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtth6SX6dqLT"/>
+	<skos:narrower rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtGRDLz9rL2B"/>
+	<skos:narrower rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtoiSmw7kmXQ"/>
+	<skos:narrower rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtWMS5ewTzUz"/>
+	<skos:broader rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtGrTrckrNHZ"/>
+	<skos:inScheme rdf:resource="https://ark.frantiq.fr/ark:/26678/TH_1"/>
+	<opentheso:memberOf rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtrxnswx9qw6"/>
+	<opentheso:memberOf rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtnbDLi2FkAj"/>
+	<skos:exactMatch rdf:resource="https://catalogue.bnf.fr/ark:/12148/cb11952088m"/>
+	<skos:exactMatch rdf:resource="https://www.wikidata.org/wiki/Q133156"/>
+	<skos:exactMatch rdf:resource="http://vocab.getty.edu/aat/300235115"/>
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2007-02-08</dcterms:created>
+	<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-08-02</dcterms:modified>
+	<dcterms:identifier>13968</dcterms:identifier>
+	<dcterms:contributor>blandine.nouvel</dcterms:contributor>
+	<skos:definition xml:lang="fr">&lt;span style= color: rgb(32, 33, 34); &gt;Territoire extérieur sous le contrôle d'un état.&lt;/span&gt;</skos:definition>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://ark.frantiq.fr/ark:/26678/pcrtth6SX6dqLT">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:prefLabel xml:lang="it">colonia greca</skos:prefLabel>
+	<skos:prefLabel xml:lang="es">colonia griega</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">colonie grecque</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Greek colony</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">griechische Kolonie</skos:prefLabel>
+	<skos:prefLabel xml:lang="nl">Griekse kolonie</skos:prefLabel>
+	<skos:prefLabel xml:lang="ar">مستعمرة إغريقية</skos:prefLabel>
+	<skos:related rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtk6D8S79lNB"/>
+	<skos:narrower rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtzlGXXDRsSE"/>
+	<skos:broader rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtqVg5EE8ryz"/>
+	<skos:inScheme rdf:resource="https://ark.frantiq.fr/ark:/26678/TH_1"/>
+	<opentheso:memberOf rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtrxnswx9qw6"/>
+	<opentheso:memberOf rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtnbDLi2FkAj"/>
+	<skos:exactMatch rdf:resource="https://www.wikidata.org/wiki/Q69391739"/>
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2007-02-08</dcterms:created>
+	<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-08-02</dcterms:modified>
+	<dcterms:identifier>13969</dcterms:identifier>
+	<dcterms:contributor>blandine.nouvel</dcterms:contributor>
+	<skos:definition xml:lang="fr">Territoire occupé et administré par des grecs, en dehors de leurs frontières. (d'après Larousse)</skos:definition>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://ark.frantiq.fr/ark:/26678/pcrtzlGXXDRsSE">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:prefLabel xml:lang="es">colonia focea</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">colonia focese</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">colonie phocéenne</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Phocaean colony</skos:prefLabel>
+	<skos:prefLabel xml:lang="nl">Phocische kolonie</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">phokäische Kolonie</skos:prefLabel>
+	<skos:prefLabel xml:lang="ar">مستعمرة فوشية</skos:prefLabel>
+	<skos:broader rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtth6SX6dqLT"/>
+	<skos:inScheme rdf:resource="https://ark.frantiq.fr/ark:/26678/TH_1"/>
+	<opentheso:memberOf rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtrxnswx9qw6"/>
+	<opentheso:memberOf rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtnbDLi2FkAj"/>
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2007-02-08</dcterms:created>
+	<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-08-02</dcterms:modified>
+	<dcterms:identifier>13970</dcterms:identifier>
+	<dcterms:contributor>blandine.nouvel</dcterms:contributor>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://ark.frantiq.fr/ark:/26678/pcrtGRDLz9rL2B">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:prefLabel xml:lang="es">colonia fenicia</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">colonia fenicia</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">colonie phénicienne</skos:prefLabel>
+	<skos:prefLabel xml:lang="nl">Fenicische kolonie</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Phoenician colony</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">phönizische Kolonie</skos:prefLabel>
+	<skos:prefLabel xml:lang="ar">مستعمرة فينيقية</skos:prefLabel>
+	<skos:broader rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtqVg5EE8ryz"/>
+	<skos:inScheme rdf:resource="https://ark.frantiq.fr/ark:/26678/TH_1"/>
+	<opentheso:memberOf rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtrxnswx9qw6"/>
+	<opentheso:memberOf rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtnbDLi2FkAj"/>
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2007-02-08</dcterms:created>
+	<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-08-02</dcterms:modified>
+	<dcterms:identifier>13971</dcterms:identifier>
+	<dcterms:contributor>blandine.nouvel</dcterms:contributor>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://ark.frantiq.fr/ark:/26678/pcrtoiSmw7kmXQ">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:prefLabel xml:lang="it">colonia punica</skos:prefLabel>
+	<skos:prefLabel xml:lang="es">colonia púnica</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">colonie punique</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Punic colony</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">punische Kolonie</skos:prefLabel>
+	<skos:prefLabel xml:lang="nl">Punische kolonie</skos:prefLabel>
+	<skos:prefLabel xml:lang="ar">مستعمرة قرطاجية</skos:prefLabel>
+	<skos:broader rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtqVg5EE8ryz"/>
+	<skos:inScheme rdf:resource="https://ark.frantiq.fr/ark:/26678/TH_1"/>
+	<opentheso:memberOf rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtrxnswx9qw6"/>
+	<opentheso:memberOf rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtnbDLi2FkAj"/>
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2007-02-08</dcterms:created>
+	<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-08-02</dcterms:modified>
+	<dcterms:identifier>13972</dcterms:identifier>
+	<dcterms:contributor>blandine.nouvel</dcterms:contributor>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://ark.frantiq.fr/ark:/26678/pcrtWMS5ewTzUz">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:prefLabel xml:lang="es">colonia romana</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">colonia romana</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">colonie romaine</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Roman colony</skos:prefLabel>
+	<skos:prefLabel xml:lang="nl">Romeinse kolonie</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">römische Kolonie</skos:prefLabel>
+	<skos:prefLabel xml:lang="ar">مستعمرة رومانية</skos:prefLabel>
+	<skos:related rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrt5g258z4mhg"/>
+	<skos:broader rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtqVg5EE8ryz"/>
+	<skos:inScheme rdf:resource="https://ark.frantiq.fr/ark:/26678/TH_1"/>
+	<opentheso:memberOf rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtrxnswx9qw6"/>
+	<opentheso:memberOf rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtnbDLi2FkAj"/>
+	<skos:exactMatch rdf:resource="https://catalogue.bnf.fr/ark:/12148/cb12216223n"/>
+	<skos:exactMatch rdf:resource="https://www.wikidata.org/wiki/Q756780"/>
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2007-02-08</dcterms:created>
+	<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-08-02</dcterms:modified>
+	<dcterms:identifier>13973</dcterms:identifier>
+	<dcterms:contributor>blandine.nouvel</dcterms:contributor>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://ark.frantiq.fr/ark:/26678/pcrt2oMB8vv3no">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:prefLabel xml:lang="en">conventus</skos:prefLabel>
+	<skos:prefLabel xml:lang="es">conventus</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">conventus</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">conventus</skos:prefLabel>
+	<skos:prefLabel xml:lang="nl">conventus</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Konvent</skos:prefLabel>
+	<skos:prefLabel xml:lang="ar">تنظيم إداري إقليمي عند الرومان</skos:prefLabel>
+	<skos:broader rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtGrTrckrNHZ"/>
+	<skos:inScheme rdf:resource="https://ark.frantiq.fr/ark:/26678/TH_1"/>
+	<opentheso:memberOf rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtrxnswx9qw6"/>
+	<opentheso:memberOf rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtnbDLi2FkAj"/>
+	<skos:exactMatch rdf:resource="https://www.wikidata.org/wiki/Q429699"/>
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2007-02-08</dcterms:created>
+	<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-08-02</dcterms:modified>
+	<dcterms:identifier>14092</dcterms:identifier>
+	<dcterms:contributor>blandine.nouvel</dcterms:contributor>
+	<skos:definition xml:lang="fr">Cas particulier dans l'organisation territoriale de l'Empire romain, qui est une subdivision de certaines provinces, comme la Dalmatie ou l'Hispanie ou l'Asie (wikipedia)</skos:definition>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://ark.frantiq.fr/ark:/26678/pcrtkecpbIZuY1">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:prefLabel xml:lang="en">diocese</skos:prefLabel>
+	<skos:prefLabel xml:lang="nl">diocese</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">diocèse</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">diocesi</skos:prefLabel>
+	<skos:prefLabel xml:lang="es">diócesis</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Diöszese</skos:prefLabel>
+	<skos:prefLabel xml:lang="ar">مطرانية</skos:prefLabel>
+	<skos:related rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrt29Voi1AOMa"/>
+	<skos:broader rdf:resource="https://ark.frantiq.fr/ark:/26678/crtI9RyKgGH53"/>
+	<skos:inScheme rdf:resource="https://ark.frantiq.fr/ark:/26678/TH_1"/>
+	<opentheso:memberOf rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtrxnswx9qw6"/>
+	<opentheso:memberOf rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtnbDLi2FkAj"/>
+	<skos:exactMatch rdf:resource="https://catalogue.bnf.fr/ark:/12148/cb11967209f"/>
+	<skos:exactMatch rdf:resource="https://www.wikidata.org/wiki/Q665487"/>
+	<skos:exactMatch rdf:resource="http://vocab.getty.edu/aat/300000799"/>
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2007-02-08</dcterms:created>
+	<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-08-02</dcterms:modified>
+	<dcterms:identifier>14389</dcterms:identifier>
+	<dcterms:contributor>blandine.nouvel</dcterms:contributor>
+	<skos:definition xml:lang="fr">&lt;span style= color: rgb(32, 33, 34); &gt;Circonscription territoriale religieuse.&lt;/span&gt;</skos:definition>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://ark.frantiq.fr/ark:/26678/pcrtrL4SWSFZ0n">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:prefLabel xml:lang="nl">administratieve divisie</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">administrative division</skos:prefLabel>
+	<skos:prefLabel xml:lang="es">división administrativa</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">division administrative</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">divisione amministrativa</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Verwaltungsdivision</skos:prefLabel>
+	<skos:prefLabel xml:lang="ar">تقسيم إداري</skos:prefLabel>
+	<skos:altLabel xml:lang="en">administrative region</skos:altLabel>
+	<skos:altLabel xml:lang="en">administrative unit</skos:altLabel>
+	<skos:altLabel xml:lang="es">demarcación administrativa</skos:altLabel>
+	<skos:related rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtfcf82N0J8s"/>
+	<skos:related rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtUu5zfknZ1x"/>
+	<skos:broader rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtGrTrckrNHZ"/>
+	<skos:inScheme rdf:resource="https://ark.frantiq.fr/ark:/26678/TH_1"/>
+	<opentheso:memberOf rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtrxnswx9qw6"/>
+	<opentheso:memberOf rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtnbDLi2FkAj"/>
+	<skos:exactMatch rdf:resource="https://www.wikidata.org/wiki/Q56061"/>
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2007-02-08</dcterms:created>
+	<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-08-02</dcterms:modified>
+	<dcterms:identifier>14430</dcterms:identifier>
+	<dcterms:contributor>blandine.nouvel</dcterms:contributor>
+	<skos:definition xml:lang="fr">Zone géographique délimitée résultant de l'organisation territoriale.</skos:definition>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://ark.frantiq.fr/ark:/26678/pcrtfLiLVtbp37">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:prefLabel xml:lang="fr">domaine impérial</skos:prefLabel>
+	<skos:prefLabel xml:lang="es">dominio imperial</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Imperial estate</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Kaiserbesitz</skos:prefLabel>
+	<skos:prefLabel xml:lang="nl">keizerlijk landgoed</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">proprietà imperiale</skos:prefLabel>
+	<skos:prefLabel xml:lang="ar">مُلكية أرض امبراطورية</skos:prefLabel>
+	<skos:broader rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtTEsi8UMa3R"/>
+	<skos:inScheme rdf:resource="https://ark.frantiq.fr/ark:/26678/TH_1"/>
+	<opentheso:memberOf rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtrxnswx9qw6"/>
+	<opentheso:memberOf rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtnbDLi2FkAj"/>
+	<skos:exactMatch rdf:resource="https://www.wikidata.org/wiki/Q11581043"/>
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2007-02-08</dcterms:created>
+	<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-08-02</dcterms:modified>
+	<dcterms:identifier>14444</dcterms:identifier>
+	<dcterms:contributor>blandine.nouvel</dcterms:contributor>
+	<skos:definition xml:lang="fr">Propriété foncière appartenant à l'empereur et acquise par héritage, deshérence ou confiscation (Lar.)</skos:definition>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://ark.frantiq.fr/ark:/26678/pcrthI4tPzvLVQ">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:prefLabel xml:lang="en">deme</skos:prefLabel>
+	<skos:prefLabel xml:lang="nl">deme</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Deme</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">dème</skos:prefLabel>
+	<skos:prefLabel xml:lang="es">demo</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">demo</skos:prefLabel>
+	<skos:prefLabel xml:lang="ar">ديم</skos:prefLabel>
+	<skos:altLabel xml:lang="es">demo ateniense</skos:altLabel>
+	<skos:altLabel xml:lang="es">demo ático</skos:altLabel>
+	<skos:altLabel xml:lang="es">demos</skos:altLabel>
+	<skos:broader rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtGrTrckrNHZ"/>
+	<skos:inScheme rdf:resource="https://ark.frantiq.fr/ark:/26678/TH_1"/>
+	<opentheso:memberOf rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtrxnswx9qw6"/>
+	<opentheso:memberOf rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtnbDLi2FkAj"/>
+	<skos:exactMatch rdf:resource="https://www.wikidata.org/wiki/Q1349648"/>
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2007-02-08</dcterms:created>
+	<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-08-02</dcterms:modified>
+	<dcterms:identifier>14575</dcterms:identifier>
+	<dcterms:contributor>blandine.nouvel</dcterms:contributor>
+	<skos:definition xml:lang="fr">Division administrative de la Grèce (Lar.)</skos:definition>
+	<skos:definition xml:lang="ar">وحدة التقسيم الإداري في الحضارات اليونانية ـ المعجم المزدوج</skos:definition>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://ark.frantiq.fr/ark:/26678/pcrt1gL0hsgQTY">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:prefLabel xml:lang="en">empire</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">empire</skos:prefLabel>
+	<skos:prefLabel xml:lang="es">imperio</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">impero</skos:prefLabel>
+	<skos:prefLabel xml:lang="nl">keizerrijk</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Reich</skos:prefLabel>
+	<skos:prefLabel xml:lang="ar">إمبراطورية</skos:prefLabel>
+	<skos:related rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtViDNLj86BV"/>
+	<skos:broader rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtGrTrckrNHZ"/>
+	<skos:inScheme rdf:resource="https://ark.frantiq.fr/ark:/26678/TH_1"/>
+	<opentheso:memberOf rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtrxnswx9qw6"/>
+	<opentheso:memberOf rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtnbDLi2FkAj"/>
+	<skos:exactMatch rdf:resource="https://www.wikidata.org/wiki/Q48349"/>
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2007-02-08</dcterms:created>
+	<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-08-02</dcterms:modified>
+	<dcterms:identifier>14582</dcterms:identifier>
+	<dcterms:contributor>blandine.nouvel</dcterms:contributor>
+	<skos:definition xml:lang="fr">Gouvernement par un empereur (Lar.)</skos:definition>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://ark.frantiq.fr/ark:/26678/pcrt83M3AddL5O">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:prefLabel xml:lang="it">circoscrizione comunale</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">finage</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Gebietsgrenze</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">parish boundaries</skos:prefLabel>
+	<skos:prefLabel xml:lang="nl">rechtsgebied</skos:prefLabel>
+	<skos:prefLabel xml:lang="es">territorio comunal</skos:prefLabel>
+	<skos:prefLabel xml:lang="ar">حدود أرض</skos:prefLabel>
+	<skos:altLabel xml:lang="it">mandamento</skos:altLabel>
+	<skos:altLabel xml:lang="it">territorio comunale</skos:altLabel>
+	<skos:altLabel xml:lang="es">territorio municipal</skos:altLabel>
+	<skos:altLabel xml:lang="es">zona agraria</skos:altLabel>
+	<skos:related rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtSkt1eRlMG2"/>
+	<skos:broader rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtGrTrckrNHZ"/>
+	<skos:inScheme rdf:resource="https://ark.frantiq.fr/ark:/26678/TH_1"/>
+	<opentheso:memberOf rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtrxnswx9qw6"/>
+	<opentheso:memberOf rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtnbDLi2FkAj"/>
+	<skos:exactMatch rdf:resource="https://www.wikidata.org/wiki/Q3072334"/>
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2007-02-08</dcterms:created>
+	<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-08-02</dcterms:modified>
+	<dcterms:identifier>14757</dcterms:identifier>
+	<dcterms:contributor>blandine.nouvel</dcterms:contributor>
+	<skos:definition xml:lang="fr">Circonscription sur laquelle un seigneur ou une ville avait droit de juridiction (Lar.)</skos:definition>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://ark.frantiq.fr/ark:/26678/pcrtSkt1eRlMG2">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:prefLabel xml:lang="en">border</skos:prefLabel>
+	<skos:prefLabel xml:lang="es">frontera</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">frontiera</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">frontière</skos:prefLabel>
+	<skos:prefLabel xml:lang="nl">grens</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Grenze</skos:prefLabel>
+	<skos:prefLabel xml:lang="ar">حدود</skos:prefLabel>
+	<skos:altLabel xml:lang="en">boundary</skos:altLabel>
+	<skos:altLabel xml:lang="es">confín</skos:altLabel>
+	<skos:altLabel xml:lang="it">confine</skos:altLabel>
+	<skos:altLabel xml:lang="en">frontier</skos:altLabel>
+	<skos:altLabel xml:lang="fr">frontière extérieure</skos:altLabel>
+	<skos:altLabel xml:lang="it">limes</skos:altLabel>
+	<skos:altLabel xml:lang="es">límite</skos:altLabel>
+	<skos:related rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrttrNOPRpGmS"/>
+	<skos:related rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtqeK4ywympg"/>
+	<skos:related rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrt83M3AddL5O"/>
+	<skos:narrower rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtysxPseQ69v"/>
+	<skos:narrower rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtAZMNub2Yp3"/>
+	<skos:broader rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtVHSiUuDQVO"/>
+	<skos:inScheme rdf:resource="https://ark.frantiq.fr/ark:/26678/TH_1"/>
+	<opentheso:memberOf rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtrxnswx9qw6"/>
+	<opentheso:memberOf rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtnbDLi2FkAj"/>
+	<skos:exactMatch rdf:resource="https://catalogue.bnf.fr/ark:/12148/cb11954113g"/>
+	<skos:exactMatch rdf:resource="https://www.wikidata.org/wiki/Q133346"/>
+	<skos:exactMatch rdf:resource="http://vocab.getty.edu/aat/300387343"/>
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2007-02-08</dcterms:created>
+	<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-08-02</dcterms:modified>
+	<dcterms:identifier>14838</dcterms:identifier>
+	<dcterms:contributor>blandine.nouvel</dcterms:contributor>
+	<skos:definition xml:lang="fr">Limite qui sépare deux états (Lar.)</skos:definition>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://ark.frantiq.fr/ark:/26678/pcrtT4PswKkyZW">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:prefLabel xml:lang="de">Landgut</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">latifondo</skos:prefLabel>
+	<skos:prefLabel xml:lang="es">latifundio</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">latifundium</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">latifundium</skos:prefLabel>
+	<skos:prefLabel xml:lang="nl">latifundium</skos:prefLabel>
+	<skos:prefLabel xml:lang="ar">عِزبَة</skos:prefLabel>
+	<skos:altLabel xml:lang="fr">grand domaine</skos:altLabel>
+	<skos:altLabel xml:lang="it">latifundium</skos:altLabel>
+	<skos:altLabel xml:lang="de">Latifundium</skos:altLabel>
+	<skos:altLabel xml:lang="en">vast landed estate</skos:altLabel>
+	<skos:broader rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtTEsi8UMa3R"/>
+	<skos:inScheme rdf:resource="https://ark.frantiq.fr/ark:/26678/TH_1"/>
+	<opentheso:memberOf rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtrxnswx9qw6"/>
+	<opentheso:memberOf rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtnbDLi2FkAj"/>
+	<skos:exactMatch rdf:resource="https://www.wikidata.org/wiki/Q428382"/>
+	<skos:exactMatch rdf:resource="http://vocab.getty.edu/aat/300000235"/>
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2007-02-08</dcterms:created>
+	<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-08-02</dcterms:modified>
+	<dcterms:identifier>14904</dcterms:identifier>
+	<dcterms:contributor>blandine.nouvel</dcterms:contributor>
+	<skos:definition xml:lang="fr">Grand domaine rural formé à la suite d'usurpations de terres de l'ager publicus, cultivé par des esclaves et sur lequel les riches Romains pratiquèrent une agriculture de type nouveau fondée sur l'élevage, l'oléiculture et la viticulture (cnrtl).</skos:definition>
+	<skos:scopeNote xml:lang="fr">Concept réservé à l'Antiquité romaine.</skos:scopeNote>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://ark.frantiq.fr/ark:/26678/pcrtVHSiUuDQVO">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:prefLabel xml:lang="it">delimitazione del territorio</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Flächenbegrenzung</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">land boundary</skos:prefLabel>
+	<skos:prefLabel xml:lang="nl">landgrenzen</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">limite des terres</skos:prefLabel>
+	<skos:prefLabel xml:lang="es">límite territorial</skos:prefLabel>
+	<skos:prefLabel xml:lang="ar">حد الأراضي</skos:prefLabel>
+	<skos:altLabel xml:lang="en">confines</skos:altLabel>
+	<skos:altLabel xml:lang="it">confini</skos:altLabel>
+	<skos:altLabel xml:lang="fr">confins</skos:altLabel>
+	<skos:altLabel xml:lang="es">límite geográfico</skos:altLabel>
+	<skos:altLabel xml:lang="fr">marge territoriale</skos:altLabel>
+	<skos:altLabel xml:lang="it">margini territoriali</skos:altLabel>
+	<skos:altLabel xml:lang="en">territorial boundary</skos:altLabel>
+	<skos:altLabel xml:lang="en">territorial limit</skos:altLabel>
+	<skos:related rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtYko2Uw1uib"/>
+	<skos:narrower rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtSkt1eRlMG2"/>
+	<skos:narrower rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtegLJO1lMLf"/>
+	<skos:broader rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtGrTrckrNHZ"/>
+	<skos:inScheme rdf:resource="https://ark.frantiq.fr/ark:/26678/TH_1"/>
+	<opentheso:memberOf rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtrxnswx9qw6"/>
+	<opentheso:memberOf rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtnbDLi2FkAj"/>
+	<skos:exactMatch rdf:resource="https://www.wikidata.org/wiki/Q3241107"/>
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2007-02-08</dcterms:created>
+	<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-08-02</dcterms:modified>
+	<dcterms:identifier>15453</dcterms:identifier>
+	<dcterms:contributor>blandine.nouvel</dcterms:contributor>
+	<skos:definition xml:lang="fr">Parties d'un territoire formant la limite extrême où commence un territoire immédiatement voisin. (CNRTL)</skos:definition>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://ark.frantiq.fr/ark:/26678/pcrtysxPseQ69v">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:prefLabel xml:lang="en">limes</skos:prefLabel>
+	<skos:prefLabel xml:lang="es">limes</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">limes</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">limes</skos:prefLabel>
+	<skos:prefLabel xml:lang="nl">limes</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Limes</skos:prefLabel>
+	<skos:broader rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtSkt1eRlMG2"/>
+	<skos:inScheme rdf:resource="https://ark.frantiq.fr/ark:/26678/TH_1"/>
+	<opentheso:memberOf rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtrxnswx9qw6"/>
+	<opentheso:memberOf rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtnbDLi2FkAj"/>
+	<skos:exactMatch rdf:resource="https://catalogue.bnf.fr/ark:/12148/cb119714208"/>
+	<skos:exactMatch rdf:resource="https://www.wikidata.org/wiki/Q146924"/>
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-08-02</dcterms:created>
+	<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-08-02</dcterms:modified>
+	<dcterms:identifier>155664</dcterms:identifier>
+	<dcterms:contributor>blandine.nouvel</dcterms:contributor>
+	<skos:definition xml:lang="fr">&lt;span style= color: rgb(32, 33, 34); &gt;Système de fortifications aux frontières de l'empire Romain.&lt;/span&gt;</skos:definition>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://ark.frantiq.fr/ark:/26678/pcrt0pUgEWWGGP">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:prefLabel xml:lang="fr">municipe</skos:prefLabel>
+	<skos:prefLabel xml:lang="es">municipio</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">municipio (storia romana)</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">municipium</skos:prefLabel>
+	<skos:prefLabel xml:lang="nl">municipium</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Municipium</skos:prefLabel>
+	<skos:prefLabel xml:lang="ar">مدينة ملحقة بمستعمرة رومانية</skos:prefLabel>
+	<skos:related rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtWq1W3WhF84"/>
+	<skos:related rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtGvqxpzWWfn"/>
+	<skos:broader rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtGrTrckrNHZ"/>
+	<skos:inScheme rdf:resource="https://ark.frantiq.fr/ark:/26678/TH_1"/>
+	<opentheso:memberOf rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtrxnswx9qw6"/>
+	<opentheso:memberOf rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtnbDLi2FkAj"/>
+	<skos:exactMatch rdf:resource="https://catalogue.bnf.fr/ark:/12148/cb12365897t"/>
+	<skos:exactMatch rdf:resource="https://www.wikidata.org/wiki/Q213468"/>
+	<skos:exactMatch rdf:resource="http://vocab.getty.edu/aat/300008394"/>
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2007-02-08</dcterms:created>
+	<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-08-02</dcterms:modified>
+	<dcterms:identifier>15787</dcterms:identifier>
+	<dcterms:contributor>blandine.nouvel</dcterms:contributor>
+	<skos:definition xml:lang="fr">Ville du Latium ou de l'Italie qui possédait le droit de cité romaine tout en continuant à vivre selon ses propres lois (CNRTL)</skos:definition>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://ark.frantiq.fr/ark:/26678/pcrtzUrcJxD2ow">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:prefLabel xml:lang="de">Metropole</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">métropole</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">metropoli</skos:prefLabel>
+	<skos:prefLabel xml:lang="es">metrópoli</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">metropolis</skos:prefLabel>
+	<skos:prefLabel xml:lang="nl">metropool</skos:prefLabel>
+	<skos:prefLabel xml:lang="ar">عاصمة</skos:prefLabel>
+	<skos:broader rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtGrTrckrNHZ"/>
+	<skos:inScheme rdf:resource="https://ark.frantiq.fr/ark:/26678/TH_1"/>
+	<opentheso:memberOf rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtrxnswx9qw6"/>
+	<opentheso:memberOf rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtnbDLi2FkAj"/>
+	<skos:exactMatch rdf:resource="https://www.wikidata.org/wiki/Q200250"/>
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2007-02-08</dcterms:created>
+	<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-08-02</dcterms:modified>
+	<dcterms:identifier>15861</dcterms:identifier>
+	<dcterms:contributor>blandine.nouvel</dcterms:contributor>
+	<skos:definition xml:lang="fr">La métropole (dérivé du bas latin metropolis « capitale d'une province », lui-même du grec ancien μητρόπολις / mētrópolis, « ville-mère ») est la ville principale d'une région géographique ou d'un pays. Elle n'est pas obligatoirement la capitale du pays (Wikipedia)</skos:definition>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://ark.frantiq.fr/ark:/26678/pcrtubR71b0HKL">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:prefLabel xml:lang="en">nome</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">nome</skos:prefLabel>
+	<skos:prefLabel xml:lang="es">nomo</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">nomo</skos:prefLabel>
+	<skos:prefLabel xml:lang="nl">nomos</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Nomos</skos:prefLabel>
+	<skos:prefLabel xml:lang="ar">نوم</skos:prefLabel>
+	<skos:altLabel xml:lang="de">Bezirk</skos:altLabel>
+	<skos:broader rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtGrTrckrNHZ"/>
+	<skos:inScheme rdf:resource="https://ark.frantiq.fr/ark:/26678/TH_1"/>
+	<opentheso:memberOf rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtrxnswx9qw6"/>
+	<opentheso:memberOf rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtnbDLi2FkAj"/>
+	<skos:exactMatch rdf:resource="https://www.wikidata.org/wiki/Q223706"/>
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2007-02-08</dcterms:created>
+	<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-08-02</dcterms:modified>
+	<dcterms:identifier>15900</dcterms:identifier>
+	<dcterms:contributor>blandine.nouvel</dcterms:contributor>
+	<skos:definition xml:lang="ar">مقاطعة إدارية في مصر القديمة ـ المعجم المزدوج</skos:definition>
+	<skos:definition xml:lang="fr">&lt;span style= color: rgb(32, 33, 34); &gt;Division administrative de l'Égypte ancienne.&lt;/span&gt;</skos:definition>
+	<dcterms:isReplacedBy rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtubR71b0HKL"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://ark.frantiq.fr/ark:/26678/pcrtI6kvbZ3mIr">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:prefLabel xml:lang="en">pagus</skos:prefLabel>
+	<skos:prefLabel xml:lang="es">pagus</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">pagus</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">pagus</skos:prefLabel>
+	<skos:prefLabel xml:lang="nl">pagus</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Pagus</skos:prefLabel>
+	<skos:prefLabel xml:lang="ar">مقاطعة ريفية رومانية</skos:prefLabel>
+	<skos:broader rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtGrTrckrNHZ"/>
+	<skos:inScheme rdf:resource="https://ark.frantiq.fr/ark:/26678/TH_1"/>
+	<opentheso:memberOf rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtrxnswx9qw6"/>
+	<opentheso:memberOf rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtnbDLi2FkAj"/>
+	<skos:exactMatch rdf:resource="https://www.wikidata.org/wiki/Q1436282"/>
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2007-02-08</dcterms:created>
+	<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-08-02</dcterms:modified>
+	<dcterms:identifier>16063</dcterms:identifier>
+	<dcterms:contributor>blandine.nouvel</dcterms:contributor>
+	<skos:definition xml:lang="fr">Entité administrative territoriale de l'Empire romain.</skos:definition>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://ark.frantiq.fr/ark:/26678/pcrtY2vzuB7lBm">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:prefLabel xml:lang="en">paranome</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">paranome</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">paranome</skos:prefLabel>
+	<skos:prefLabel xml:lang="nl">paranome</skos:prefLabel>
+	<skos:prefLabel xml:lang="es">paranomo</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Paranomos</skos:prefLabel>
+	<skos:prefLabel xml:lang="ar">بارانوم</skos:prefLabel>
+	<skos:broader rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtGrTrckrNHZ"/>
+	<skos:inScheme rdf:resource="https://ark.frantiq.fr/ark:/26678/TH_1"/>
+	<opentheso:memberOf rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtrxnswx9qw6"/>
+	<opentheso:memberOf rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtnbDLi2FkAj"/>
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2007-02-08</dcterms:created>
+	<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-08-02</dcterms:modified>
+	<dcterms:identifier>16114</dcterms:identifier>
+	<dcterms:contributor>blandine.nouvel</dcterms:contributor>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://ark.frantiq.fr/ark:/26678/pcrtS1LzpAWeT2">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:prefLabel xml:lang="de">Kirchengemeinde</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">parish</skos:prefLabel>
+	<skos:prefLabel xml:lang="nl">parochie</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">paroisse</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">parrocchia</skos:prefLabel>
+	<skos:prefLabel xml:lang="es">parroquia</skos:prefLabel>
+	<skos:prefLabel xml:lang="ar">خورنية</skos:prefLabel>
+	<skos:related rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtkxDeyQJnUv"/>
+	<skos:broader rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtGrTrckrNHZ"/>
+	<skos:inScheme rdf:resource="https://ark.frantiq.fr/ark:/26678/TH_1"/>
+	<opentheso:memberOf rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtrxnswx9qw6"/>
+	<opentheso:memberOf rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtnbDLi2FkAj"/>
+	<skos:exactMatch rdf:resource="https://catalogue.bnf.fr/ark:/12148/cb11941179g"/>
+	<skos:exactMatch rdf:resource="https://www.wikidata.org/wiki/Q102496"/>
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2007-02-08</dcterms:created>
+	<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-08-02</dcterms:modified>
+	<dcterms:identifier>16122</dcterms:identifier>
+	<dcterms:contributor>blandine.nouvel</dcterms:contributor>
+	<skos:definition xml:lang="ar">دائرة رعوية يخدمها كاهن ـ المعجم المزدوج</skos:definition>
+	<skos:definition xml:lang="fr">&lt;span style= color: rgb(32, 33, 34); &gt;Subdivision ecclésiasitique d'un diocèse.&lt;/span&gt;</skos:definition>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://ark.frantiq.fr/ark:/26678/pcrtzTPFYJSae5">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:prefLabel xml:lang="es">propiedad del Estado</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">proprietà di Stato</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">propriété d'Etat</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Staatsbesitz</skos:prefLabel>
+	<skos:prefLabel xml:lang="nl">staatsgronden</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">State property</skos:prefLabel>
+	<skos:prefLabel xml:lang="ar">أملاك دولة</skos:prefLabel>
+	<skos:altLabel xml:lang="it">agro</skos:altLabel>
+	<skos:narrower rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtUvvjpjtj9o"/>
+	<skos:broader rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtTEsi8UMa3R"/>
+	<skos:inScheme rdf:resource="https://ark.frantiq.fr/ark:/26678/TH_1"/>
+	<opentheso:memberOf rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtrxnswx9qw6"/>
+	<opentheso:memberOf rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtnbDLi2FkAj"/>
+	<skos:exactMatch rdf:resource="https://www.wikidata.org/wiki/Q2396633"/>
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2007-02-08</dcterms:created>
+	<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-08-02</dcterms:modified>
+	<dcterms:identifier>16436</dcterms:identifier>
+	<dcterms:contributor>blandine.nouvel</dcterms:contributor>
+	<skos:definition xml:lang="fr">&lt;span style= color: rgb(32, 33, 34); &gt;Entité dont un état est propriétaire.&lt;/span&gt;</skos:definition>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://ark.frantiq.fr/ark:/26678/pcrt43M8H7iWXV">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:prefLabel xml:lang="en">Church property</skos:prefLabel>
+	<skos:prefLabel xml:lang="nl">Kerkbezit</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Kirchenbesitz</skos:prefLabel>
+	<skos:prefLabel xml:lang="es">propiedad religiosa</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">proprietà religiosa</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">propriété religieuse</skos:prefLabel>
+	<skos:prefLabel xml:lang="ar">وَقْف</skos:prefLabel>
+	<skos:altLabel xml:lang="it">proprietà dei templi</skos:altLabel>
+	<skos:altLabel xml:lang="fr">propriété des temples</skos:altLabel>
+	<skos:altLabel xml:lang="fr">terre des temples</skos:altLabel>
+	<skos:altLabel xml:lang="it">terreno sacro</skos:altLabel>
+	<skos:altLabel xml:lang="fr">terre sacrée</skos:altLabel>
+	<skos:broader rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtTEsi8UMa3R"/>
+	<skos:inScheme rdf:resource="https://ark.frantiq.fr/ark:/26678/TH_1"/>
+	<opentheso:memberOf rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtrxnswx9qw6"/>
+	<opentheso:memberOf rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtnbDLi2FkAj"/>
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2007-02-08</dcterms:created>
+	<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-08-02</dcterms:modified>
+	<dcterms:identifier>16440</dcterms:identifier>
+	<dcterms:contributor>blandine.nouvel</dcterms:contributor>
+	<skos:definition xml:lang="fr">Entité propriété d'une division ecclésiastique.</skos:definition>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://ark.frantiq.fr/ark:/26678/pcrtqZmoA2lkNx">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:prefLabel xml:lang="en">Crown property</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">domaine royal</skos:prefLabel>
+	<skos:prefLabel xml:lang="es">dominio real</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Königsbesitz</skos:prefLabel>
+	<skos:prefLabel xml:lang="nl">koninklijk bezit</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">proprietà reale</skos:prefLabel>
+	<skos:prefLabel xml:lang="ar">مُلك ملكي</skos:prefLabel>
+	<skos:altLabel xml:lang="es">propiedad real</skos:altLabel>
+	<skos:altLabel xml:lang="fr">propriété royale</skos:altLabel>
+	<skos:altLabel xml:lang="en">royal property</skos:altLabel>
+	<skos:altLabel xml:lang="it">terre reali</skos:altLabel>
+	<skos:altLabel xml:lang="fr">terre royale</skos:altLabel>
+	<skos:broader rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtTEsi8UMa3R"/>
+	<skos:inScheme rdf:resource="https://ark.frantiq.fr/ark:/26678/TH_1"/>
+	<opentheso:memberOf rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtrxnswx9qw6"/>
+	<opentheso:memberOf rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtnbDLi2FkAj"/>
+	<skos:exactMatch rdf:resource="https://www.wikidata.org/wiki/Q22249069"/>
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2007-02-08</dcterms:created>
+	<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-08-02</dcterms:modified>
+	<dcterms:identifier>16441</dcterms:identifier>
+	<dcterms:contributor>blandine.nouvel</dcterms:contributor>
+	<skos:scopeNote xml:lang="fr">concept à combiner avec les civilisations/aires géographiques/ royautés concernés : France, Egypte, Grande-Bretagne, Mycènes, Babylone, etc</skos:scopeNote>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://ark.frantiq.fr/ark:/26678/pcrt8L7jhVhIn5">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:prefLabel xml:lang="en">province</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">province</skos:prefLabel>
+	<skos:prefLabel xml:lang="es">provincia</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">provincia</skos:prefLabel>
+	<skos:prefLabel xml:lang="nl">provincie</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Provinz</skos:prefLabel>
+	<skos:prefLabel xml:lang="ar">إقليم</skos:prefLabel>
+	<skos:related rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrt5wr41fsd8r"/>
+	<skos:narrower rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtMxv4H96TuW"/>
+	<skos:narrower rdf:resource="https://ark.frantiq.fr/ark:/26678/crt4O4PAy5w3O"/>
+	<skos:broader rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtzuzR7iTq5A"/>
+	<skos:inScheme rdf:resource="https://ark.frantiq.fr/ark:/26678/TH_1"/>
+	<opentheso:memberOf rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtrxnswx9qw6"/>
+	<opentheso:memberOf rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtnbDLi2FkAj"/>
+	<skos:exactMatch rdf:resource="https://www.wikidata.org/wiki/Q34876"/>
+	<skos:exactMatch rdf:resource="http://vocab.getty.edu/aat/300000774"/>
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2007-02-08</dcterms:created>
+	<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-09-06</dcterms:modified>
+	<dcterms:identifier>16465</dcterms:identifier>
+	<dcterms:contributor>blandine.nouvel</dcterms:contributor>
+	<skos:definition xml:lang="fr">Division territoriale placée sous l'autorité d'un délégué du pouvoir central (Lar.)</skos:definition>
+	<skos:scopeNote xml:lang="fr">Ce concept ne s'applique qu'à la notion de division administrative. Pour qualifier les provinces de l'Empire romain par exemple, utiliser le concept  Provinces romaines  du thésaurus Lieux.</skos:scopeNote>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://ark.frantiq.fr/ark:/26678/pcrtIy0GVAU6zI">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:prefLabel xml:lang="de">Präfektur</skos:prefLabel>
+	<skos:prefLabel xml:lang="es">prefectura</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">prefecture</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">préfecture</skos:prefLabel>
+	<skos:prefLabel xml:lang="nl">prefectuur</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">prefettura</skos:prefLabel>
+	<skos:prefLabel xml:lang="ar">محافظة</skos:prefLabel>
+	<skos:broader rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtGrTrckrNHZ"/>
+	<skos:inScheme rdf:resource="https://ark.frantiq.fr/ark:/26678/TH_1"/>
+	<opentheso:memberOf rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtrxnswx9qw6"/>
+	<opentheso:memberOf rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtnbDLi2FkAj"/>
+	<skos:exactMatch rdf:resource="https://www.wikidata.org/wiki/Q515716"/>
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2007-02-08</dcterms:created>
+	<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-08-02</dcterms:modified>
+	<dcterms:identifier>16472</dcterms:identifier>
+	<dcterms:contributor>blandine.nouvel</dcterms:contributor>
+	<skos:definition xml:lang="fr">&lt;span style= color: rgb(32, 33, 34); &gt;Division administrative territoriale.&lt;/span&gt;</skos:definition>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://ark.frantiq.fr/ark:/26678/pcrtzuzR7iTq5A">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:prefLabel xml:lang="nl">regio</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">region</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Region</skos:prefLabel>
+	<skos:prefLabel xml:lang="es">región</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">région</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">regione</skos:prefLabel>
+	<skos:prefLabel xml:lang="ar">منطقة</skos:prefLabel>
+	<skos:narrower rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrt8L7jhVhIn5"/>
+	<skos:broader rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtGrTrckrNHZ"/>
+	<skos:inScheme rdf:resource="https://ark.frantiq.fr/ark:/26678/TH_1"/>
+	<opentheso:memberOf rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtrxnswx9qw6"/>
+	<opentheso:memberOf rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtnbDLi2FkAj"/>
+	<skos:exactMatch rdf:resource="https://www.wikidata.org/wiki/Q36784"/>
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2007-02-08</dcterms:created>
+	<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-08-02</dcterms:modified>
+	<dcterms:identifier>16751</dcterms:identifier>
+	<dcterms:contributor>blandine.nouvel</dcterms:contributor>
+	<skos:definition xml:lang="fr">Unité administrative</skos:definition>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://ark.frantiq.fr/ark:/26678/pcrtqh0Gw1ujrr">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:prefLabel xml:lang="it">repubblica</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">republic</skos:prefLabel>
+	<skos:prefLabel xml:lang="es">república</skos:prefLabel>
+	<skos:prefLabel xml:lang="nl">republiek</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Republik</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">république</skos:prefLabel>
+	<skos:prefLabel xml:lang="ar">جمهورية</skos:prefLabel>
+	<skos:broader rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtGrTrckrNHZ"/>
+	<skos:inScheme rdf:resource="https://ark.frantiq.fr/ark:/26678/TH_1"/>
+	<opentheso:memberOf rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtrxnswx9qw6"/>
+	<opentheso:memberOf rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtnbDLi2FkAj"/>
+	<skos:exactMatch rdf:resource="https://catalogue.bnf.fr/ark:/12148/cb133186466"/>
+	<skos:exactMatch rdf:resource="https://www.wikidata.org/wiki/Q7270"/>
+	<skos:exactMatch rdf:resource="http://vocab.getty.edu/aat/300179493"/>
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2007-02-08</dcterms:created>
+	<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-08-02</dcterms:modified>
+	<dcterms:identifier>16757</dcterms:identifier>
+	<dcterms:contributor>blandine.nouvel</dcterms:contributor>
+	<skos:definition xml:lang="fr">Forme d'un Etat dans lequel le peuple exerce la souveraineté directement ou par l'intermédiaire de délégués élus (Lar.)</skos:definition>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://ark.frantiq.fr/ark:/26678/pcrtTEsi8UMa3R">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:prefLabel xml:lang="fr">domaine</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">estate</skos:prefLabel>
+	<skos:prefLabel xml:lang="nl">grondbezit</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Landbesitz</skos:prefLabel>
+	<skos:prefLabel xml:lang="es">propiedad</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">proprietà della terra</skos:prefLabel>
+	<skos:prefLabel xml:lang="ar">مُلكية أرض</skos:prefLabel>
+	<skos:altLabel xml:lang="it">dominio</skos:altLabel>
+	<skos:altLabel xml:lang="es">hacienda</skos:altLabel>
+	<skos:altLabel xml:lang="en">land ownership</skos:altLabel>
+	<skos:altLabel xml:lang="en">private property</skos:altLabel>
+	<skos:altLabel xml:lang="fr">terre appartenance</skos:altLabel>
+	<skos:altLabel xml:lang="es">terreno</skos:altLabel>
+	<skos:related rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtHBU3mnn3DF"/>
+	<skos:narrower rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtfLiLVtbp37"/>
+	<skos:narrower rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtT4PswKkyZW"/>
+	<skos:narrower rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtzTPFYJSae5"/>
+	<skos:narrower rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrt43M8H7iWXV"/>
+	<skos:narrower rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtqZmoA2lkNx"/>
+	<skos:narrower rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtykoEqGY5VZ"/>
+	<skos:broader rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtGrTrckrNHZ"/>
+	<skos:inScheme rdf:resource="https://ark.frantiq.fr/ark:/26678/TH_1"/>
+	<opentheso:memberOf rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtrxnswx9qw6"/>
+	<opentheso:memberOf rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtnbDLi2FkAj"/>
+	<skos:exactMatch rdf:resource="https://www.wikidata.org/wiki/Q13589709"/>
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2007-02-08</dcterms:created>
+	<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-08-02</dcterms:modified>
+	<dcterms:identifier>17264</dcterms:identifier>
+	<dcterms:contributor>blandine.nouvel</dcterms:contributor>
+	<skos:definition xml:lang="fr">Propriété foncière ; bien, terre (Lar. 2019)</skos:definition>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://ark.frantiq.fr/ark:/26678/pcrtykoEqGY5VZ">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:prefLabel xml:lang="en">bestowed land</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Landschenkung</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">terre concédée</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">terreno concesso</skos:prefLabel>
+	<skos:prefLabel xml:lang="es">tierra concedida</skos:prefLabel>
+	<skos:prefLabel xml:lang="nl">toegewezen land</skos:prefLabel>
+	<skos:prefLabel xml:lang="ar">أرض ممنوحة</skos:prefLabel>
+	<skos:altLabel xml:lang="en">land distribution</skos:altLabel>
+	<skos:altLabel xml:lang="en">land redistribution</skos:altLabel>
+	<skos:altLabel xml:lang="en">land reform</skos:altLabel>
+	<skos:altLabel xml:lang="en">property redistribution</skos:altLabel>
+	<skos:altLabel xml:lang="fr">réforme agraire</skos:altLabel>
+	<skos:broader rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtTEsi8UMa3R"/>
+	<skos:inScheme rdf:resource="https://ark.frantiq.fr/ark:/26678/TH_1"/>
+	<opentheso:memberOf rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtrxnswx9qw6"/>
+	<opentheso:memberOf rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtnbDLi2FkAj"/>
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2007-02-08</dcterms:created>
+	<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-08-02</dcterms:modified>
+	<dcterms:identifier>17265</dcterms:identifier>
+	<dcterms:contributor>blandine.nouvel</dcterms:contributor>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://ark.frantiq.fr/ark:/26678/pcrtIMLF0zrBUu">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:prefLabel xml:lang="de">Gebiet</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">territoire</skos:prefLabel>
+	<skos:prefLabel xml:lang="es">territorio</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">territorio</skos:prefLabel>
+	<skos:prefLabel xml:lang="nl">territorium</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">territory</skos:prefLabel>
+	<skos:prefLabel xml:lang="ar">إقليم</skos:prefLabel>
+	<skos:altLabel xml:lang="es">chora</skos:altLabel>
+	<skos:altLabel xml:lang="fr">chora</skos:altLabel>
+	<skos:altLabel xml:lang="it">chora</skos:altLabel>
+	<skos:altLabel xml:lang="es">jora</skos:altLabel>
+	<skos:altLabel xml:lang="en">khôra</skos:altLabel>
+	<skos:related rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrt6PQaIIfrpT"/>
+	<skos:broader rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtGrTrckrNHZ"/>
+	<skos:inScheme rdf:resource="https://ark.frantiq.fr/ark:/26678/TH_1"/>
+	<opentheso:memberOf rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtrxnswx9qw6"/>
+	<opentheso:memberOf rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtnbDLi2FkAj"/>
+	<skos:exactMatch rdf:resource="https://www.wikidata.org/wiki/Q183366"/>
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2007-02-08</dcterms:created>
+	<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-08-02</dcterms:modified>
+	<dcterms:identifier>17272</dcterms:identifier>
+	<dcterms:contributor>blandine.nouvel</dcterms:contributor>
+	<skos:definition xml:lang="fr">Etendue de terre dépendant d'un Etat, d'une ville, d'une juridiction, ...(Lar.)</skos:definition>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://ark.frantiq.fr/ark:/26678/pcrtdfzPa8ViuL">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:prefLabel xml:lang="es">talassocracia</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">talassocrazia</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">thalassocracy</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">thalassocratie</skos:prefLabel>
+	<skos:prefLabel xml:lang="nl">thalassocratie</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Thalassokratie</skos:prefLabel>
+	<skos:prefLabel xml:lang="ar">سيادة بحرية</skos:prefLabel>
+	<skos:altLabel xml:lang="en">maritime empire</skos:altLabel>
+	<skos:altLabel xml:lang="en">thalattocracy</skos:altLabel>
+	<skos:broader rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtGrTrckrNHZ"/>
+	<skos:inScheme rdf:resource="https://ark.frantiq.fr/ark:/26678/TH_1"/>
+	<opentheso:memberOf rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtrxnswx9qw6"/>
+	<opentheso:memberOf rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtnbDLi2FkAj"/>
+	<skos:exactMatch rdf:resource="https://www.wikidata.org/wiki/Q288587"/>
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2007-02-08</dcterms:created>
+	<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-08-02</dcterms:modified>
+	<dcterms:identifier>17279</dcterms:identifier>
+	<dcterms:contributor>blandine.nouvel</dcterms:contributor>
+	<skos:definition xml:lang="fr">Etat dont la puissance réside dans la suprématie qu'il possède sur les mers (Lar.)</skos:definition>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://ark.frantiq.fr/ark:/26678/pcrtegLJO1lMLf">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:prefLabel xml:lang="en">trifinium</skos:prefLabel>
+	<skos:prefLabel xml:lang="es">trifinium</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">trifinium</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">trifinium</skos:prefLabel>
+	<skos:prefLabel xml:lang="nl">trifinium</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Trifinium</skos:prefLabel>
+	<skos:prefLabel xml:lang="ar">نقطة تقاطع ثلاث حدود</skos:prefLabel>
+	<skos:related rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrt3G8RooGUeu"/>
+	<skos:broader rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtVHSiUuDQVO"/>
+	<skos:inScheme rdf:resource="https://ark.frantiq.fr/ark:/26678/TH_1"/>
+	<opentheso:memberOf rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtrxnswx9qw6"/>
+	<opentheso:memberOf rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtnbDLi2FkAj"/>
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2007-02-08</dcterms:created>
+	<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-08-02</dcterms:modified>
+	<dcterms:identifier>17396</dcterms:identifier>
+	<dcterms:contributor>blandine.nouvel</dcterms:contributor>
+	<skos:definition xml:lang="fr">Lieu de rencontre de trois 'propriétés' (J. Peyras : Arpentage et administration publique à la fin de l'Antiquité, 2008)</skos:definition>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://ark.frantiq.fr/ark:/26678/pcrtQNRRYhNKP5">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:prefLabel xml:lang="en">vicus</skos:prefLabel>
+	<skos:prefLabel xml:lang="es">vicus</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">vicus</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">vicus</skos:prefLabel>
+	<skos:prefLabel xml:lang="nl">vicus</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Vicus</skos:prefLabel>
+	<skos:prefLabel xml:lang="ar">تجمع سكني صغير</skos:prefLabel>
+	<skos:related rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrt0dhrbSWbZw"/>
+	<skos:related rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrt1gsiMfFUP0"/>
+	<skos:broader rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtGrTrckrNHZ"/>
+	<skos:inScheme rdf:resource="https://ark.frantiq.fr/ark:/26678/TH_1"/>
+	<opentheso:memberOf rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtrxnswx9qw6"/>
+	<opentheso:memberOf rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtnbDLi2FkAj"/>
+	<skos:exactMatch rdf:resource="https://www.wikidata.org/wiki/Q763590"/>
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2007-02-08</dcterms:created>
+	<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-05-17</dcterms:modified>
+	<dcterms:identifier>17515</dcterms:identifier>
+	<dcterms:contributor>blandine.nouvel</dcterms:contributor>
+	<skos:definition xml:lang="fr">Nom latin donné à une petite agglomération. Le terme désigne une notion collective pour tous les types d'implantations qui n'avaient pas le statut de ville : municipium, colonia et civitas ou encore de domaine rural : villa rustica. Le terme de vicus désignait pour les Romains tant un  quartier urbain  et une  rangée de maisons  qu'une implantation plus importante que ses fonctions nous feraient qualifier aujourd'hui de bourg ou  petite ville de province . (Wikipédia)</skos:definition>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://ark.frantiq.fr/ark:/26678/pcrtMxv4H96TuW">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:prefLabel xml:lang="it">eparchia</skos:prefLabel>
+	<skos:prefLabel xml:lang="nl">eparchie</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Eparchie</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">éparchie</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">eparchy</skos:prefLabel>
+	<skos:prefLabel xml:lang="es">eparquía</skos:prefLabel>
+	<skos:prefLabel xml:lang="ar">أبرشية</skos:prefLabel>
+	<skos:altLabel xml:lang="de">Verwaltungsbezirk</skos:altLabel>
+	<skos:broader rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrt8L7jhVhIn5"/>
+	<skos:inScheme rdf:resource="https://ark.frantiq.fr/ark:/26678/TH_1"/>
+	<opentheso:memberOf rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtrxnswx9qw6"/>
+	<opentheso:memberOf rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtnbDLi2FkAj"/>
+	<skos:exactMatch rdf:resource="https://www.wikidata.org/wiki/Q22085013"/>
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2007-02-08</dcterms:created>
+	<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-08-02</dcterms:modified>
+	<dcterms:identifier>17676</dcterms:identifier>
+	<dcterms:contributor>blandine.nouvel</dcterms:contributor>
+	<skos:definition xml:lang="fr">Province de l'Empire romain ou partie de province dotée de privilèges (Lar.)</skos:definition>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://ark.frantiq.fr/ark:/26678/crtwzOa2orNiH">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:prefLabel xml:lang="fr">lotissement</skos:prefLabel>
+	<skos:prefLabel xml:lang="es">lotización</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">lottizzazione</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">parzellierte Wohnsiedlung</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">subdivision (land)</skos:prefLabel>
+	<skos:altLabel xml:lang="es">lotificación</skos:altLabel>
+	<skos:altLabel xml:lang="es">parcelación</skos:altLabel>
+	<skos:related rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtPPPS9ErMrW"/>
+	<skos:broader rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtGrTrckrNHZ"/>
+	<skos:inScheme rdf:resource="https://ark.frantiq.fr/ark:/26678/TH_1"/>
+	<opentheso:memberOf rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtrxnswx9qw6"/>
+	<opentheso:memberOf rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtnbDLi2FkAj"/>
+	<skos:exactMatch rdf:resource="https://www.wikidata.org/wiki/Q449111"/>
+	<skos:exactMatch rdf:resource="http://vocab.getty.edu/aat/300055451"/>
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2018-07-25</dcterms:created>
+	<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-08-02</dcterms:modified>
+	<dcterms:identifier>178193</dcterms:identifier>
+	<dcterms:contributor>blandine.nouvel</dcterms:contributor>
+	<skos:definition xml:lang="fr">Un lotissement est en France, selon le code de l'urbanisme « la division en propriété ou en jouissance d'une unité foncière ou de plusieurs unités foncières contiguës ayant pour objet de créer un ou plusieurs lots destinés à être bâtis. » (wp)</skos:definition>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://ark.frantiq.fr/ark:/26678/crtT6U9i2DKKe">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:prefLabel xml:lang="de">Gebiet für konzertierte Raumplanung</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">priority housing development area</skos:prefLabel>
+	<skos:prefLabel xml:lang="es">zona de desarrollo conjunto (Francia)</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">zona di sviluppo congiunto (Francia)</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">zone d'aménagement concerté</skos:prefLabel>
+	<skos:altLabel xml:lang="en">area whose development is prioritized</skos:altLabel>
+	<skos:altLabel xml:lang="en">priority urbanisation area</skos:altLabel>
+	<skos:altLabel xml:lang="en">priority urbanization area</skos:altLabel>
+	<skos:altLabel xml:lang="en">urban development</skos:altLabel>
+	<skos:altLabel xml:lang="es">ZAC</skos:altLabel>
+	<skos:altLabel xml:lang="fr">ZAC</skos:altLabel>
+	<skos:altLabel xml:lang="it">ZAC</skos:altLabel>
+	<skos:altLabel xml:lang="es">zona de construcción</skos:altLabel>
+	<skos:altLabel xml:lang="en">zoning</skos:altLabel>
+	<skos:altLabel xml:lang="en">zoning regulation</skos:altLabel>
+	<skos:altLabel xml:lang="fr">ZUP</skos:altLabel>
+	<skos:related rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtcJxzOpgs7T"/>
+	<skos:related rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtPPPS9ErMrW"/>
+	<skos:related rdf:resource="https://ark.frantiq.fr/ark:/26678/crtM31n8Bf1TJ"/>
+	<skos:broader rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtGrTrckrNHZ"/>
+	<skos:inScheme rdf:resource="https://ark.frantiq.fr/ark:/26678/TH_1"/>
+	<opentheso:memberOf rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtrxnswx9qw6"/>
+	<opentheso:memberOf rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtnbDLi2FkAj"/>
+	<skos:exactMatch rdf:resource="https://www.wikidata.org/wiki/Q3575769"/>
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2018-07-25</dcterms:created>
+	<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-08-02</dcterms:modified>
+	<dcterms:identifier>178198</dcterms:identifier>
+	<dcterms:contributor>blandine.nouvel</dcterms:contributor>
+	<skos:definition xml:lang="fr">Une zone d'aménagement concerté (ZAC) est, en France, une opération publique d'aménagement de l'espace urbain qui  se substitue aux zones à urbaniser en priorité (ZUP). Par métonymie, une « ZAC » désigne aussi un habitat urbain résultant de la procédure d'aménagement (Wikipedia, 30/09/2020). La création ou l'extension de ces zones font l'objet d'opérations d'archéologie préventive (B. Nouvel pour le GT PACTOLS, 20/01/2021)</skos:definition>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://ark.frantiq.fr/ark:/26678/crtnXTBqmGb2A">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:prefLabel xml:lang="es">protectorado</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">protectorat</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">protectorate</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Protektorat</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">protettorato</skos:prefLabel>
+	<skos:broader rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtGrTrckrNHZ"/>
+	<skos:inScheme rdf:resource="https://ark.frantiq.fr/ark:/26678/TH_1"/>
+	<opentheso:memberOf rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtrxnswx9qw6"/>
+	<opentheso:memberOf rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtnbDLi2FkAj"/>
+	<skos:exactMatch rdf:resource="https://catalogue.bnf.fr/ark:/12148/cb11980499h"/>
+	<skos:exactMatch rdf:resource="https://www.wikidata.org/wiki/Q164142"/>
+	<skos:exactMatch rdf:resource="http://vocab.getty.edu/aat/300235119"/>
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2018-08-10</dcterms:created>
+	<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-08-02</dcterms:modified>
+	<dcterms:identifier>178303</dcterms:identifier>
+	<dcterms:contributor>blandine.nouvel</dcterms:contributor>
+	<skos:definition xml:lang="fr">Le protectorat est un régime politique constituant l'une des formes de sujétion coloniale. Il diffère de la colonisation pure et simple en ce que les institutions existantes, y compris la nationalité, sont maintenues sur un plan formel, la puissance protectrice assumant la gestion de la diplomatie, du commerce extérieur et éventuellement de l'armée de l'État protégé (d'après Wikipédia).</skos:definition>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://ark.frantiq.fr/ark:/26678/crtrnI4OBYMLK">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:prefLabel xml:lang="es">visirato</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">visirato</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">vizirat</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">vizirat</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Wesirat</skos:prefLabel>
+	<skos:altLabel xml:lang="fr">visiriat</skos:altLabel>
+	<skos:altLabel xml:lang="fr">viziriat</skos:altLabel>
+	<skos:related rdf:resource="https://ark.frantiq.fr/ark:/26678/crtcbNpheGboy"/>
+	<skos:broader rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtGrTrckrNHZ"/>
+	<skos:inScheme rdf:resource="https://ark.frantiq.fr/ark:/26678/TH_1"/>
+	<opentheso:memberOf rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtrxnswx9qw6"/>
+	<opentheso:memberOf rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtnbDLi2FkAj"/>
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2018-10-22</dcterms:created>
+	<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-08-02</dcterms:modified>
+	<dcterms:identifier>178427</dcterms:identifier>
+	<dcterms:contributor>blandine.nouvel</dcterms:contributor>
+	<skos:definition xml:lang="fr">Dignité, fonctions du vizir ; exercice, durée de ces fonctions. (Lar.)</skos:definition>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://ark.frantiq.fr/ark:/26678/crtI9RyKgGH53">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:prefLabel xml:lang="en">ecclisiastical province</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Kirchenprovinz</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">province ecclésiastique</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">provincia ecclesiastica</skos:prefLabel>
+	<skos:prefLabel xml:lang="es">provincia eclesiástica</skos:prefLabel>
+	<skos:narrower rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtkecpbIZuY1"/>
+	<skos:broader rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtGrTrckrNHZ"/>
+	<skos:inScheme rdf:resource="https://ark.frantiq.fr/ark:/26678/TH_1"/>
+	<opentheso:memberOf rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtrxnswx9qw6"/>
+	<opentheso:memberOf rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtnbDLi2FkAj"/>
+	<skos:exactMatch rdf:resource="https://www.wikidata.org/wiki/Q625160"/>
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2018-11-13</dcterms:created>
+	<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-08-02</dcterms:modified>
+	<dcterms:identifier>178527</dcterms:identifier>
+	<dcterms:contributor>blandine.nouvel</dcterms:contributor>
+	<skos:definition xml:lang="fr">Les provinces ecclésiastiques trouvent leur origine dans l'organisation administrative de l'ancien Empire romain. Dans l'Empire romain tardif (à partir de la Tétrarchie), la province était une subdivision d'un diocèse. À partir des IVe siècle - Ve siècle, cette organisation a été reprise par l'Église catholique romaine, alors qu'une inversion de sens se produisait : le diocèse devenait une subdivision de la province ecclésiastique. (WP le 13.11.2018)</skos:definition>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://ark.frantiq.fr/ark:/26678/pcrtD7US79TXje">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:prefLabel xml:lang="it">esarcato</skos:prefLabel>
+	<skos:prefLabel xml:lang="es">exarcado</skos:prefLabel>
+	<skos:prefLabel xml:lang="nl">exarchaat</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">exarchat</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Exarchat</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">exarchate</skos:prefLabel>
+	<skos:prefLabel xml:lang="ar">إكسَرْخُسيَّة</skos:prefLabel>
+	<skos:altLabel xml:lang="en">exarch</skos:altLabel>
+	<skos:broader rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtGrTrckrNHZ"/>
+	<skos:inScheme rdf:resource="https://ark.frantiq.fr/ark:/26678/TH_1"/>
+	<opentheso:memberOf rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtrxnswx9qw6"/>
+	<opentheso:memberOf rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtnbDLi2FkAj"/>
+	<skos:exactMatch rdf:resource="https://www.wikidata.org/wiki/Q2998465"/>
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2007-02-08</dcterms:created>
+	<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-08-02</dcterms:modified>
+	<dcterms:identifier>20890</dcterms:identifier>
+	<dcterms:contributor>blandine.nouvel</dcterms:contributor>
+	<skos:definition xml:lang="fr">Territoires périphériques de l'empire byzantin, mis en place au VIe siècle pour faire face à la menace d’envahisseurs (WPedia)</skos:definition>
+	<skos:definition xml:lang="ar">حكومة عسكرية بيزنطية</skos:definition>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://ark.frantiq.fr/ark:/26678/crt62kRiS7fUE">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:prefLabel xml:lang="de">Grundherrschaft</skos:prefLabel>
+	<skos:prefLabel xml:lang="nl">hofstelsel</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">manorialism</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">seigneurie</skos:prefLabel>
+	<skos:prefLabel xml:lang="es">señorío</skos:prefLabel>
+	<skos:prefLabel xml:lang="ar">مانورالية</skos:prefLabel>
+	<skos:related rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtv4w5D7y7yI"/>
+	<skos:related rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtuplr2Z5tr3"/>
+	<skos:broader rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtGrTrckrNHZ"/>
+	<skos:inScheme rdf:resource="https://ark.frantiq.fr/ark:/26678/TH_1"/>
+	<opentheso:memberOf rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtrxnswx9qw6"/>
+	<opentheso:memberOf rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtnbDLi2FkAj"/>
+	<skos:exactMatch rdf:resource="https://www.wikidata.org/wiki/Q1550557"/>
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2018-12-13</dcterms:created>
+	<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-07-22</dcterms:modified>
+	<dcterms:identifier>246229</dcterms:identifier>
+	<skos:definition xml:lang="fr">institution médiévale et moderne occidentale assurant l'encadrement économique et judiciaire des populations par un individu ou une personne morale n’exerçant pas nécessairement la souveraineté. La seigneurie est une réalité distincte du fief, qui est l'un des modes d'exercice de la seigneurie, avec l’alleu. La seigneurie est un ensemble de terres, c’est-à-dire de propriétés foncières, de droits et de redevances. (WP le 13.12.2018)</skos:definition>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://ark.frantiq.fr/ark:/26678/pcrtQe5VAFa1Is">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:prefLabel xml:lang="es">veguería</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">viguerie</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">viguerie</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Viguerie</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Viguerie</skos:prefLabel>
+	<skos:prefLabel xml:lang="nl">Viguerie</skos:prefLabel>
+	<skos:altLabel xml:lang="fr">vicaria</skos:altLabel>
+	<skos:altLabel xml:lang="es">vicaría</skos:altLabel>
+	<skos:altLabel xml:lang="fr">vicariae</skos:altLabel>
+	<skos:related rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrt9zOnWQjwz9"/>
+	<skos:broader rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtGrTrckrNHZ"/>
+	<skos:inScheme rdf:resource="https://ark.frantiq.fr/ark:/26678/TH_1"/>
+	<opentheso:memberOf rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtrxnswx9qw6"/>
+	<opentheso:memberOf rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtnbDLi2FkAj"/>
+	<skos:exactMatch rdf:resource="https://www.wikidata.org/wiki/Q17108217"/>
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2019-01-03</dcterms:created>
+	<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-08-02</dcterms:modified>
+	<dcterms:identifier>246311</dcterms:identifier>
+	<dcterms:contributor>blandine.nouvel</dcterms:contributor>
+	<skos:definition xml:lang="fr">Charge de viguier; territoire soumis à la juridiction du viguier. (cnrtl). Circonscription administrative qui se substitue à la condita à partir du milieu du 9e s. (AAT)</skos:definition>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://ark.frantiq.fr/ark:/26678/pcrtGrTrckrNHZ">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:prefLabel xml:lang="en">geopolitical units</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Geopolitische Einheiten</skos:prefLabel>
+	<skos:prefLabel xml:lang="es">unidades geopolíticas</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">unità geopolitiche</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">unités géopolitiques</skos:prefLabel>
+	<skos:topConceptOf rdf:resource="https://ark.frantiq.fr/ark:/26678/TH_1"/>
+	<skos:narrower rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtaRcMOBwKh6"/>
+	<skos:narrower rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtpHO0HJvq4L"/>
+	<skos:narrower rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtvzl3HUp31m"/>
+	<skos:narrower rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtqVg5EE8ryz"/>
+	<skos:narrower rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrt2oMB8vv3no"/>
+	<skos:narrower rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtrL4SWSFZ0n"/>
+	<skos:narrower rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrthI4tPzvLVQ"/>
+	<skos:narrower rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrt1gL0hsgQTY"/>
+	<skos:narrower rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrt83M3AddL5O"/>
+	<skos:narrower rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtVHSiUuDQVO"/>
+	<skos:narrower rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrt0pUgEWWGGP"/>
+	<skos:narrower rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtzUrcJxD2ow"/>
+	<skos:narrower rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtubR71b0HKL"/>
+	<skos:narrower rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtI6kvbZ3mIr"/>
+	<skos:narrower rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtY2vzuB7lBm"/>
+	<skos:narrower rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtS1LzpAWeT2"/>
+	<skos:narrower rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtIy0GVAU6zI"/>
+	<skos:narrower rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtzuzR7iTq5A"/>
+	<skos:narrower rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtqh0Gw1ujrr"/>
+	<skos:narrower rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtTEsi8UMa3R"/>
+	<skos:narrower rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtIMLF0zrBUu"/>
+	<skos:narrower rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtdfzPa8ViuL"/>
+	<skos:narrower rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtQNRRYhNKP5"/>
+	<skos:narrower rdf:resource="https://ark.frantiq.fr/ark:/26678/crtwzOa2orNiH"/>
+	<skos:narrower rdf:resource="https://ark.frantiq.fr/ark:/26678/crtT6U9i2DKKe"/>
+	<skos:narrower rdf:resource="https://ark.frantiq.fr/ark:/26678/crtnXTBqmGb2A"/>
+	<skos:narrower rdf:resource="https://ark.frantiq.fr/ark:/26678/crtrnI4OBYMLK"/>
+	<skos:narrower rdf:resource="https://ark.frantiq.fr/ark:/26678/crtI9RyKgGH53"/>
+	<skos:narrower rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtD7US79TXje"/>
+	<skos:narrower rdf:resource="https://ark.frantiq.fr/ark:/26678/crt62kRiS7fUE"/>
+	<skos:narrower rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtQe5VAFa1Is"/>
+	<skos:narrower rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtTiTtJfS2XB"/>
+	<skos:narrower rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtgpav0y2xnw"/>
+	<skos:narrower rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtTzsUdF1uUT"/>
+	<skos:narrower rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrttw1Rh499Mh"/>
+	<skos:inScheme rdf:resource="https://ark.frantiq.fr/ark:/26678/TH_1"/>
+	<opentheso:memberOf rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtrxnswx9qw6"/>
+	<opentheso:memberOf rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtnbDLi2FkAj"/>
+	<iso-thes:subordinateArray rdf:resource="https://pactols.frantiq.fr/opentheso/?idf=F221&amp;idt=TH_1"/>
+	<iso-thes:subordinateArray rdf:resource="https://pactols.frantiq.fr/opentheso/?idf=F601&amp;idt=TH_1"/>
+	<skos:exactMatch rdf:resource="https://vocabs.dariah.eu/bbt/Concept/000009"/>
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2019-06-13</dcterms:created>
+	<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-08-02</dcterms:modified>
+	<dcterms:identifier>246690</dcterms:identifier>
+	<dcterms:contributor>blandine.nouvel</dcterms:contributor>
+	<skos:definition xml:lang="fr">Cette branche concerne les divisions administratives utilisées par un État ou toute autre structure politique souveraine au sein de ses limites de juridiction. (d'après le DARIAH Backbone Thesaurus, v. 1.2.8)</skos:definition>
+	<skos:scopeNote xml:lang="fr">Concept de niveau supérieur, utiliser de préférence des concepts plus spécifiques.</skos:scopeNote>
+	<skos:scopeNote xml:lang="en">This term classifies administrative divisions used by a state or other sovereign or political structure within the boundaries of its jurisdiction. Intrinsic features of these units include, among others, the extent of the area over which they are applied/exercised, the chronological extent during which they are in force, their governing bodies and the degree of autonomy they are granted in relation to managing and exploiting of their resources. (BBT V 1.2.2)</skos:scopeNote>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://ark.frantiq.fr/ark:/26678/pcrt5g258z4mhg">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:prefLabel xml:lang="fr">cité romaine</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">città romana</skos:prefLabel>
+	<skos:prefLabel xml:lang="es">ciudad romana</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">Roman city</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">römische Stadt</skos:prefLabel>
+	<skos:altLabel xml:lang="en">Roman town</skos:altLabel>
+	<skos:altLabel xml:lang="fr">ville romaine</skos:altLabel>
+	<skos:related rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtWMS5ewTzUz"/>
+	<skos:broader rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtvzl3HUp31m"/>
+	<skos:inScheme rdf:resource="https://ark.frantiq.fr/ark:/26678/TH_1"/>
+	<opentheso:memberOf rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtrxnswx9qw6"/>
+	<opentheso:memberOf rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtnbDLi2FkAj"/>
+	<skos:exactMatch rdf:resource="https://www.wikidata.org/wiki/Q2202509"/>
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2019-12-12</dcterms:created>
+	<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-08-02</dcterms:modified>
+	<dcterms:identifier>253382</dcterms:identifier>
+	<dcterms:contributor>blandine.nouvel</dcterms:contributor>
+	<skos:definition xml:lang="fr">Dans l'Antiquité romaine, communauté politique dont les membres (les citoyens) s'administraient eux-mêmes. (D'après Larousse)</skos:definition>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://ark.frantiq.fr/ark:/26678/pcrtTiTtJfS2XB">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:prefLabel xml:lang="nl">bisdom</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">bishopric</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Bistum</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">évêché</skos:prefLabel>
+	<skos:prefLabel xml:lang="es">obispado</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">vescovado</skos:prefLabel>
+	<skos:prefLabel xml:lang="ar">أسقفية</skos:prefLabel>
+	<skos:altLabel xml:lang="en">diocese</skos:altLabel>
+	<skos:altLabel xml:lang="en">episcopal see</skos:altLabel>
+	<skos:altLabel xml:lang="it">vescovato (giurisdizione)</skos:altLabel>
+	<skos:related rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtDfFRaHdgV8"/>
+	<skos:related rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrt8qSQmAM70s"/>
+	<skos:broader rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtGrTrckrNHZ"/>
+	<skos:inScheme rdf:resource="https://ark.frantiq.fr/ark:/26678/TH_1"/>
+	<opentheso:memberOf rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtrxnswx9qw6"/>
+	<opentheso:memberOf rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtnbDLi2FkAj"/>
+	<opentheso:memberOf rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtv0jq332vcq3gxt5m13d5"/>
+	<skos:exactMatch rdf:resource="https://www.wikidata.org/wiki/Q866196"/>
+	<skos:exactMatch rdf:resource="http://vocab.getty.edu/aat/300387235"/>
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2007-02-08</dcterms:created>
+	<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-03-14</dcterms:modified>
+	<dcterms:identifier>27428</dcterms:identifier>
+	<dcterms:contributor>blandine.nouvel</dcterms:contributor>
+	<dcterms:contributor>irene.weis</dcterms:contributor>
+	<skos:definition xml:lang="fr">Territoire, circonscription ecclésiastique comprenant plusieurs paroisses et placé(e) sous l'autorité spirituelle d'un évêque (CNRTL)</skos:definition>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://ark.frantiq.fr/ark:/26678/pcrtgpav0y2xnw">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:prefLabel xml:lang="en">kingdom</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Königreich</skos:prefLabel>
+	<skos:prefLabel xml:lang="nl">koninkrijk</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">regno</skos:prefLabel>
+	<skos:prefLabel xml:lang="es">reino</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">royaume</skos:prefLabel>
+	<skos:prefLabel xml:lang="ar">مملكة</skos:prefLabel>
+	<skos:broader rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtGrTrckrNHZ"/>
+	<skos:inScheme rdf:resource="https://ark.frantiq.fr/ark:/26678/TH_1"/>
+	<opentheso:memberOf rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtrxnswx9qw6"/>
+	<opentheso:memberOf rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtnbDLi2FkAj"/>
+	<skos:exactMatch rdf:resource="https://www.wikidata.org/wiki/Q417175"/>
+	<skos:exactMatch rdf:resource="http://vocab.getty.edu/aat/300235096"/>
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2007-09-20</dcterms:created>
+	<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-08-02</dcterms:modified>
+	<dcterms:identifier>27639</dcterms:identifier>
+	<dcterms:contributor>blandine.nouvel</dcterms:contributor>
+	<skos:definition xml:lang="fr">&lt;span style= color: rgb(32, 33, 34); &gt;Territoire gouverné par un roi ou une reine.&lt;/span&gt;</skos:definition>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://ark.frantiq.fr/ark:/26678/pcrtTzsUdF1uUT">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:prefLabel xml:lang="fr">califat</skos:prefLabel>
+	<skos:prefLabel xml:lang="es">califato</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">califfato</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">caliphate</skos:prefLabel>
+	<skos:prefLabel xml:lang="nl">kalifaat</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Kalifat</skos:prefLabel>
+	<skos:prefLabel xml:lang="ar">خلافة</skos:prefLabel>
+	<skos:altLabel xml:lang="fr">khalifat</skos:altLabel>
+	<skos:broader rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtGrTrckrNHZ"/>
+	<skos:inScheme rdf:resource="https://ark.frantiq.fr/ark:/26678/TH_1"/>
+	<opentheso:memberOf rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtrxnswx9qw6"/>
+	<opentheso:memberOf rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtnbDLi2FkAj"/>
+	<skos:exactMatch rdf:resource="https://www.wikidata.org/wiki/Q131401"/>
+	<skos:exactMatch rdf:resource="http://vocab.getty.edu/aat/300264254"/>
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2012-09-25</dcterms:created>
+	<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-08-02</dcterms:modified>
+	<dcterms:identifier>35820</dcterms:identifier>
+	<dcterms:contributor>blandine.nouvel</dcterms:contributor>
+	<skos:definition xml:lang="fr">Territoire reconnaissant l'autorité d'un calife et le régime politique lui-même (Wpedia)</skos:definition>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://ark.frantiq.fr/ark:/26678/pcrtAZMNub2Yp3">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:prefLabel xml:lang="es">frontera marítima</skos:prefLabel>
+	<skos:prefLabel xml:lang="it">frontiera marittima</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">frontière maritime</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">maritime boundary</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Seegrenze</skos:prefLabel>
+	<skos:prefLabel xml:lang="ar">حدود بحرية</skos:prefLabel>
+	<skos:broader rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtSkt1eRlMG2"/>
+	<skos:inScheme rdf:resource="https://ark.frantiq.fr/ark:/26678/TH_1"/>
+	<opentheso:memberOf rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtrxnswx9qw6"/>
+	<opentheso:memberOf rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtnbDLi2FkAj"/>
+	<skos:exactMatch rdf:resource="https://www.wikidata.org/wiki/Q3089219"/>
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-09-23</dcterms:created>
+	<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-08-02</dcterms:modified>
+	<dcterms:identifier>36474</dcterms:identifier>
+	<dcterms:contributor>blandine.nouvel</dcterms:contributor>
+	<skos:definition xml:lang="fr">Frontière délimitant, en mer, les territoires respectifs sur lesquels s'exerce la souveraineté de deux États. (Wikipédia)</skos:definition>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://ark.frantiq.fr/ark:/26678/pcrttw1Rh499Mh">
+	<rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+	<skos:prefLabel xml:lang="it">mare territoriale</skos:prefLabel>
+	<skos:prefLabel xml:lang="es">mar territorial</skos:prefLabel>
+	<skos:prefLabel xml:lang="fr">mer territoriale</skos:prefLabel>
+	<skos:prefLabel xml:lang="de">Territorialgewässer</skos:prefLabel>
+	<skos:prefLabel xml:lang="en">territorial sea</skos:prefLabel>
+	<skos:prefLabel xml:lang="ar">مياه إقليمية</skos:prefLabel>
+	<skos:altLabel xml:lang="it">acque territoriali</skos:altLabel>
+	<skos:altLabel xml:lang="es">aguas territoriales</skos:altLabel>
+	<skos:altLabel xml:lang="fr">eaux territoriales</skos:altLabel>
+	<skos:altLabel xml:lang="de">Hoheitsgewässer</skos:altLabel>
+	<skos:altLabel xml:lang="en">internal waters</skos:altLabel>
+	<skos:altLabel xml:lang="fr">territoire maritime</skos:altLabel>
+	<skos:altLabel xml:lang="en">territorial waters</skos:altLabel>
+	<skos:related rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtj7UzwMo9cV"/>
+	<skos:related rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtvlgpYs3jyT"/>
+	<skos:broader rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtGrTrckrNHZ"/>
+	<skos:inScheme rdf:resource="https://ark.frantiq.fr/ark:/26678/TH_1"/>
+	<opentheso:memberOf rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtrxnswx9qw6"/>
+	<opentheso:memberOf rdf:resource="https://ark.frantiq.fr/ark:/26678/pcrtnbDLi2FkAj"/>
+	<skos:exactMatch rdf:resource="https://www.wikidata.org/wiki/Q213204"/>
+	<dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-10-16</dcterms:created>
+	<dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-08-02</dcterms:modified>
+	<dcterms:identifier>37042</dcterms:identifier>
+	<dcterms:contributor>blandine.nouvel</dcterms:contributor>
+	<skos:definition xml:lang="fr">Partie de mer côtière sur laquelle s'étend la souveraineté d'un État côtier. (Wikipédia)</skos:definition>
+</rdf:Description>
+
+</rdf:RDF>
